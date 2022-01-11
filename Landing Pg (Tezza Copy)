@@ -1,0 +1,3400 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  
+
+
+  <!-- Title and description ================================================== -->
+  <title>
+  Tezza &ndash; TEZZA
+  </title>
+
+  
+
+  <!-- Helpers ================================================== -->
+  <!-- /snippets/social-meta-tags.liquid -->
+
+
+
+
+<meta property="og:site_name" content="TEZZA">
+<meta property="og:url" content="https://www.shoptezza.com/">
+<meta property="og:title" content="Tezza">
+<meta property="og:type" content="website">
+<meta property="og:description" content="TEZZA">
+
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tezza">
+<meta name="twitter:description" content="TEZZA">
+
+  <link rel="canonical" href="https://www.shoptezza.com/">
+  <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+  <meta name="theme-color" content="#ec7954">
+
+  <!-- CSS ================================================== -->
+  <link href="//cdn.shopify.com/s/files/1/2309/6853/t/30/assets/timber.scss.css?v=894175557918133783" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/2309/6853/t/30/assets/theme.scss.css?v=9628237373171976934" rel="stylesheet" type="text/css" media="all" />
+
+  <!-- Sections ================================================== -->
+  <script>
+    window.theme = window.theme || {};
+    theme.strings = {
+      zoomClose: "Close (Esc)",
+      zoomPrev: "Previous (Left arrow key)",
+      zoomNext: "Next (Right arrow key)",
+      moneyFormat: "\u003cspan class=money\u003e${{amount}}\u003c\/span\u003e",
+      addressError: "Error looking up that address",
+      addressNoResults: "No results for that address",
+      addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+      authError: "There was a problem authenticating your Google Maps account.",
+      cartEmpty: "Your cart is currently empty.",
+      cartCookie: "Enable cookies to use the shopping cart",
+      cartSavings: "You're saving [savings]"
+    };
+    theme.settings = {
+      cartType: "drawer",
+      gridType: "collage"
+    };
+  </script>
+
+  <script src="//cdn.shopify.com/s/files/1/2309/6853/t/30/assets/jquery-2.2.3.min.js?v=5821186314690718683" type="text/javascript"></script>
+
+  <script src="//cdn.shopify.com/s/files/1/2309/6853/t/30/assets/lazysizes.min.js?v=15522312340271661705" async="async"></script>
+
+  <script src="//cdn.shopify.com/s/files/1/2309/6853/t/30/assets/theme.js?v=2059166141235167661" defer="defer"></script>
+
+  <!-- Header hook for plugins ================================================== -->
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="facebook-domain-verification" content="n6njbgq2y61vzao6e2u94h0hei9dh4">
+<meta name="facebook-domain-verification" content="7qjp3g2lde1pahb9ahgqt12wfowep4">
+<meta name="google-site-verification" content="19w-CjSH8QjzW5qOiAqvdUqancOBt5_vaaRqEMA847M">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/23096853/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="c95f17816dad79d8b250a71c5050d85f">
+<meta id="in-context-paypal-metadata" data-shop-id="23096853" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":23096853,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/23096853","merchantName":"TEZZA","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","jcb","elo","chinaUnionPay"],"total":{"type":"pending","label":"TEZZA","amount":"1.00"}}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"c95f17816dad79d8b250a71c5050d85f","betas":["rich-media-storefront-analytics"],"domain":"www.shoptezza.com","predictiveSearch":true,"shopId":23096853,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "by-tezza.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"FlashSale2021","id":121064652915,"theme_store_id":730,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/ed485420ec9ab07c060109cf3\/0e8b76288413769ca7b3f3282.js?shop=by-tezza.myshopify.com","https:\/\/a.mailmunch.co\/widgets\/site-429104-9c4df6b277855d15fd4487fd01ee1ce69d8f004a.js?shop=by-tezza.myshopify.com","https:\/\/load.csell.co\/assets\/js\/cross-sell.js?shop=by-tezza.myshopify.com","https:\/\/load.csell.co\/assets\/v2\/js\/core\/xsell.js?shop=by-tezza.myshopify.com","https:\/\/widgetic.com\/sdk\/sdk.js?shop=by-tezza.myshopify.com","https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=PYZrCE\u0026shop=by-tezza.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/t\/22\/assets\/ginit.js?v=1594069237\u0026shop=by-tezza.myshopify.com","\/\/app.backinstock.org\/widget\/22677_1629224641.js?v=5\u0026shop=by-tezza.myshopify.com","https:\/\/static.cdn.printful.com\/static\/js\/external\/shopify-product-customizer.js?v=0.22\u0026shop=by-tezza.myshopify.com","https:\/\/cdn.routeapp.io\/route-widget-shopify\/stable\/route-widget-shopify-stable.min.js?shop=by-tezza.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/t\/30\/assets\/doubly.js?v=1639158259\u0026shop=by-tezza.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":23096853,"offset":-28800,"reqid":"74d64b37-8a04-4fbd-bb2f-66d61e785682","pageurl":"www.shoptezza.com\/","u":"1c9fb184ca3b","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-fnL7TRTwbWDFcwa4DcFG8Ozb5OTAlB9PNTe+5NVDFK8=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-7e72fb4d14f06d60c57306b80dc146f0ecdbe4e4c0941f4f3537bee4d54314af.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-b61f50798075db890698930c4405673937fe89353f7fea7be88b5ce16a9c0af8.js?v=20210208"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+<style id="shopify-dynamic-checkout">.shopify-payment-button__button--hidden {
+  visibility: hidden;
+}
+
+.shopify-payment-button__button {
+  border-radius: 4px;
+  border: none;
+  box-shadow: 0 0 0 0 transparent;
+  color: white;
+  cursor: pointer;
+  display: block;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  width: 100%;
+  transition: background 0.2s ease-in-out;
+}
+
+.shopify-payment-button__button[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.shopify-payment-button__button--unbranded {
+  background-color: #1990c6;
+  padding: 1em 2em;
+}
+
+.shopify-payment-button__button--unbranded:hover:not([disabled]) {
+  background-color: #136f99;
+}
+
+.shopify-payment-button__more-options {
+  background: transparent;
+  border: 0 none;
+  cursor: pointer;
+  display: block;
+  font-size: 1em;
+  margin-top: 1em;
+  text-align: center;
+  width: 100%;
+}
+
+.shopify-payment-button__more-options:hover:not([disabled]) {
+  text-decoration: underline;
+}
+
+.shopify-payment-button__more-options[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.shopify-payment-button__button--branded {
+  display: flex;
+  flex-direction: column;
+  min-height: 44px;
+  position: relative;
+  z-index: 1;
+}
+
+.shopify-payment-button__button--branded .shopify-cleanslate {
+  flex: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+</style>
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 240px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+  <script src="//cdn.shopify.com/s/files/1/2309/6853/t/30/assets/modernizr.min.js?v=2139105474820643245" type="text/javascript"></script>
+
+  
+  
+
+ 
+
+<script>window.__pagefly_analytics_settings__={"acceptTracking":false};</script>
+ <script src="https://cdn.shopify.com/extensions/47ecac1c-4632-44ef-9b28-8944428ef5da/1.20.0/assets/ws-announcement.js" type="text/javascript" defer="defer"></script>
+<meta property="og:image" content="https://cdn.shopify.com/s/files/1/2309/6853/files/TEZZA-LOGO-2.png?height=628&pad_color=ffffff&v=1614031128&width=1200" />
+<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/2309/6853/files/TEZZA-LOGO-2.png?height=628&pad_color=ffffff&v=1614031128&width=1200" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="628" />
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 23096853,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  // ADDRESS VALIDATOR
+;if(Shopify && Shopify.Checkout && Shopify.Checkout.token){var a=document.createElement("script");a.src="https://d3ox8tdk614ykk.cloudfront.net/pobox_checker.js",document.head.appendChild(a)};
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 23096853,
+      theme_id: 121064652915,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.6967fb130a629a5a38a7939e6f3366da4c6e3e41.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.6967fb130a629a5a38a7939e6f3366da4c6e3e41.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.6967fb130a629a5a38a7939e6f3366da4c6e3e41.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":23096853,"isMerchantRequest":null,"themeId":121064652915,"themeCityHash":"17175451680711735001","contentLanguage":"en","currency":"USD"},"isServerSideCookieWritingEnabled":true},"Google Analytics":{"trackingId":"UA-205488605-2","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["1622261811259210"],"agent":"plshopify1.2","conversionsAPIEnabled":true},"Pinterest Pixel":{"pixelId":"2612635427055"},"TikTok Pixel":{"pixelId":"C6GLPL9LLTKUEOLGH6OG"},"Google Gtag Pixel":{"conversionId":"AW-303372296","eventLabels":[{"type":"page_view","action_label":"AW-303372296\/mdyrCJHQ9PkCEIiw1JAB"},{"type":"purchase","action_label":"AW-303372296\/xqjkCJTQ9PkCEIiw1JAB"},{"type":"view_item","action_label":"AW-303372296\/Xlj8CJfQ9PkCEIiw1JAB"},{"type":"add_to_cart","action_label":"AW-303372296\/l9vTCJrQ9PkCEIiw1JAB"},{"type":"begin_checkout","action_label":"AW-303372296\/JivoCJ3Q9PkCEIiw1JAB"},{"type":"search","action_label":"AW-303372296\/9C1QCJjR9PkCEIiw1JAB"},{"type":"add_payment_info","action_label":"AW-303372296\/YRhiCJvR9PkCEIiw1JAB"}],"targetCountry":"US"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"facebookAppPixelId":"1622261811259210","source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+      (function () {
+        if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+          return;
+        }
+        window.BOOMR = window.BOOMR || {};
+        window.BOOMR.snippetStart = new Date().getTime();
+        window.BOOMR.snippetExecuted = true;
+        window.BOOMR.snippetVersion = 12;
+        window.BOOMR.application = "storefront-renderer";
+        window.BOOMR.themeName = "Brooklyn";
+        window.BOOMR.themeVersion = "15.3.0";
+        window.BOOMR.shopId = 23096853;
+        window.BOOMR.themeId = 121064652915;
+        window.BOOMR.url =
+          "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+        var where = document.currentScript || document.getElementsByTagName("script")[0];
+        var parentNode = where.parentNode;
+        var promoted = false;
+        var LOADER_TIMEOUT = 3000;
+        function promote() {
+          if (promoted) {
+            return;
+          }
+          var script = document.createElement("script");
+          script.id = "boomr-scr-as";
+          script.src = window.BOOMR.url;
+          script.async = true;
+          parentNode.appendChild(script);
+          promoted = true;
+        }
+        function iframeLoader(wasFallback) {
+          promoted = true;
+          var dom, bootstrap, iframe, iframeStyle;
+          var doc = document;
+          var win = window;
+          window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+          bootstrap = function(parent, scriptId) {
+            var script = doc.createElement("script");
+            script.id = scriptId || "boomr-if-as";
+            script.src = window.BOOMR.url;
+            BOOMR_lstart = new Date().getTime();
+            parent = parent || doc.body;
+            parent.appendChild(script);
+          };
+          if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+            window.BOOMR.snippetMethod = "s";
+            bootstrap(parentNode, "boomr-async");
+            return;
+          }
+          iframe = document.createElement("IFRAME");
+          iframe.src = "about:blank";
+          iframe.title = "";
+          iframe.role = "presentation";
+          iframe.loading = "eager";
+          iframeStyle = (iframe.frameElement || iframe).style;
+          iframeStyle.width = 0;
+          iframeStyle.height = 0;
+          iframeStyle.border = 0;
+          iframeStyle.display = "none";
+          parentNode.appendChild(iframe);
+          try {
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          } catch (e) {
+            dom = document.domain;
+            iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          }
+          if (dom) {
+            doc._boomrl = function() {
+              this.domain = dom;
+              bootstrap();
+            };
+            doc.write("<body onload='document._boomrl();'>");
+          } else {
+            win._boomrl = function() {
+              bootstrap();
+            };
+            if (win.addEventListener) {
+              win.addEventListener("load", win._boomrl, false);
+            } else if (win.attachEvent) {
+              win.attachEvent("onload", win._boomrl);
+            }
+          }
+          doc.close();
+        }
+        var link = document.createElement("link");
+        if (link.relList &&
+          typeof link.relList.supports === "function" &&
+          link.relList.supports("preload") &&
+          ("as" in link)) {
+          window.BOOMR.snippetMethod = "p";
+          link.href = window.BOOMR.url;
+          link.rel = "preload";
+          link.as = "script";
+          link.addEventListener("load", promote);
+          link.addEventListener("error", function() {
+            iframeLoader(true);
+          });
+          setTimeout(function() {
+            if (!promoted) {
+              iframeLoader(true);
+            }
+          }, LOADER_TIMEOUT);
+          BOOMR_lstart = new Date().getTime();
+          parentNode.appendChild(link);
+        } else {
+          iframeLoader(false);
+        }
+        function boomerangSaveLoadTime(e) {
+          window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+        }
+        if (window.addEventListener) {
+          window.addEventListener("load", boomerangSaveLoadTime, false);
+        } else if (window.attachEvent) {
+          window.attachEvent("onload", boomerangSaveLoadTime);
+        }
+        if (document.addEventListener) {
+          document.addEventListener("onBoomerangLoaded", function(e) {
+            e.detail.BOOMR.init({
+              producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+              ResourceTiming: {
+                enabled: true,
+                trackedResourceTypes: ["script", "img", "css"]
+              },
+            });
+            e.detail.BOOMR.t_end = new Date().getTime();
+          });
+        } else if (document.attachEvent) {
+          document.attachEvent("onpropertychange", function(e) {
+            if (!e) e=event;
+            if (e.propertyName === "onBoomerangLoaded") {
+              e.detail.BOOMR.init({
+                producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+                ResourceTiming: {
+                  enabled: true,
+                  trackedResourceTypes: ["script", "img", "css"]
+                },
+              });
+              e.detail.BOOMR.t_end = new Date().getTime();
+            }
+          });
+        }
+      })();
+    
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-53e1c676e346080489adfcb36af1739b2d334a9e308c6ff2d84d3de1bc4e6ce0.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+</head> 
+
+
+<body id="tezza" class="template-index">
+
+  <div id="shopify-section-header" class="shopify-section"><style data-shopify>.header-wrapper.header-wrapper--transparent .site-nav__link,
+    .header-wrapper.header-wrapper--transparent .site-header__logo a {
+      color: #ffffff;
+    }
+
+    .header-wrapper.header-wrapper--transparent .site-header__logo a:hover,
+    .header-wrapper.header-wrapper--transparent .site-nav__link:hover,
+    .header-wrapper.header-wrapper--transparent .site-nav__link:focus,
+    .header-wrapper.header-wrapper--transparent .site-header__logo a:focus {
+      color: rgba(255, 255, 255, 0.75);
+    }
+
+    .header-wrapper.header-wrapper--transparent .site-nav--has-dropdown.nav-hover > .site-nav__link {
+      color: #000000;
+    }
+
+    .header-wrapper.header-wrapper--transparent .burger-icon,
+    .header-wrapper.header-wrapper--transparent .site-nav__link:hover .burger-icon {
+      background: #ffffff;
+    }.header-wrapper .site-nav__link,
+  .header-wrapper .site-header__logo a,
+  .header-wrapper .site-nav__dropdown-link,
+  .header-wrapper .site-nav--has-dropdown > a.nav-focus,
+  .header-wrapper .site-nav--has-dropdown.nav-hover > a,
+  .header-wrapper .site-nav--has-dropdown:hover > a {
+    color: #000000;
+  }
+
+  .header-wrapper .site-header__logo a:hover,
+  .header-wrapper .site-header__logo a:focus,
+  .header-wrapper .site-nav__link:hover,
+  .header-wrapper .site-nav__link:focus,
+  .header-wrapper .site-nav--has-dropdown a:hover,
+  .header-wrapper .site-nav--has-dropdown > a.nav-focus:hover,
+  .header-wrapper .site-nav--has-dropdown > a.nav-focus:focus,
+  .header-wrapper .site-nav--has-dropdown .site-nav__link:hover,
+  .header-wrapper .site-nav--has-dropdown .site-nav__link:focus,
+  .header-wrapper .site-nav--has-dropdown.nav-hover > a:hover,
+  .header-wrapper .site-nav__dropdown a:focus {
+    color: rgba(0, 0, 0, 0.75);
+  }
+
+  .header-wrapper .burger-icon,
+  .header-wrapper .site-nav--has-dropdown:hover > a:before,
+  .header-wrapper .site-nav--has-dropdown > a.nav-focus:before,
+  .header-wrapper .site-nav--has-dropdown.nav-hover > a:before {
+    background: #000000;
+  }
+
+  .header-wrapper .site-nav__link:hover .burger-icon {
+    background: rgba(0, 0, 0, 0.75);
+  }
+
+  .site-header__logo img {
+    max-width: 120px;
+  }
+
+  @media screen and (max-width: 768px) {
+    .site-header__logo img {
+      max-width: 100%;
+    }
+  }</style><div data-section-id="header" data-section-type="header-section" data-template="index">
+  <div id="NavDrawer" class="drawer drawer--left">
+      <div class="drawer__inner drawer-left__inner">
+
+    
+      <!-- /snippets/search-bar.liquid -->
+
+
+
+
+
+<form action="/search" method="get" class="input-group search-bar search-bar--drawer" role="search">
+  
+  <input type="search" name="q" value="" placeholder="Search our store" class="input-group-field" aria-label="Search our store">
+  <span class="input-group-btn">
+    <button type="submit" class="btn--secondary icon-fallback-text">
+      <span class="icon icon-search" aria-hidden="true"></span>
+      <span class="fallback-text">Search</span>
+    </button>
+  </span>
+</form>
+
+    
+
+    <ul class="mobile-nav">
+      
+        
+          <li class="mobile-nav__item">
+            <div class="mobile-nav__has-sublist">
+              <a
+                href="/collections/collage-kit"
+                class="mobile-nav__link"
+                id="Label-1"
+                >Collage Kits</a>
+              <div class="mobile-nav__toggle">
+                <button type="button" class="mobile-nav__toggle-btn icon-fallback-text" aria-controls="Linklist-1" aria-expanded="false">
+                  <span class="icon-fallback-text mobile-nav__toggle-open">
+                    <span class="icon icon-plus" aria-hidden="true"></span>
+                    <span class="fallback-text">Expand submenu Collage Kits</span>
+                  </span>
+                  <span class="icon-fallback-text mobile-nav__toggle-close">
+                    <span class="icon icon-minus" aria-hidden="true"></span>
+                    <span class="fallback-text">Collapse submenu Collage Kits</span>
+                  </span>
+                </button>
+              </div>
+            </div>
+            <ul class="mobile-nav__sublist" id="Linklist-1" aria-labelledby="Label-1" role="navigation">
+              
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/dream-kit"
+                    class="mobile-nav__link"
+                    >
+                      Dream Kit
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/creamy-collage-kit"
+                    class="mobile-nav__link"
+                    >
+                      Creamy Kit
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/coastal-kit"
+                    class="mobile-nav__link"
+                    >
+                      Coastal Kit
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="https://www.shoptezza.com/products/city-kit"
+                    class="mobile-nav__link"
+                    >
+                      City Kit
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/tezza-x-charles-barton"
+                    class="mobile-nav__link"
+                    >
+                      Charles Barton x Tezza Kit
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/collage-kit"
+                    class="mobile-nav__link"
+                    >
+                      Tezza Collage Kit
+                  </a>
+                </li>
+                
+              
+            </ul>
+          </li>
+
+          
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="/collections/gifts-under-25"
+              class="mobile-nav__link"
+              >
+                Gifts Under $25
+            </a>
+          </li>
+
+        
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="https://www.shoptezza.com/collections/lightroom-presets"
+              class="mobile-nav__link"
+              >
+                Presets
+            </a>
+          </li>
+
+        
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="/pages/tezza-app"
+              class="mobile-nav__link"
+              >
+                Tezza App
+            </a>
+          </li>
+
+        
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="/pages/sophies-place"
+              class="mobile-nav__link"
+              >
+                Sophie&#39;s Place
+            </a>
+          </li>
+
+        
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="/pages/faqs"
+              class="mobile-nav__link"
+              >
+                FAQs
+            </a>
+          </li>
+
+        
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="https://lellothelabel.com"
+              class="mobile-nav__link"
+              >
+                LELLO
+            </a>
+          </li>
+
+        
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="/pages/labor-day-weekend-sale"
+              class="mobile-nav__link"
+              >
+                Join the Newsletter
+            </a>
+          </li>
+
+        
+      
+      
+      <li class="mobile-nav__spacer"></li>
+
+      
+      
+        
+          <li class="mobile-nav__item mobile-nav__item--secondary">
+            <a href="/account/login" id="customer_login_link">Log In</a>
+          </li>
+          <li class="mobile-nav__item mobile-nav__item--secondary">
+            <a href="/account/register" id="customer_register_link">Create Account</a>
+          </li>
+        
+      
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/search">Search</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/pages/faqs">FAQ</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/policies/refund-policy">Refund policy</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/pages/contact-us">Contact Us</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/policies/terms-of-service">Terms of Service (shoptezza.com)</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/pages/terms-of-use">Terms Of Use (Tezza App)</a></li>
+      
+    </ul>
+    <!-- //mobile-nav -->
+  </div>
+
+
+  </div>
+  <div class="header-container drawer__header-container">
+    <div class="header-wrapper" data-header-wrapper>
+      
+
+      <header class="site-header" role="banner" data-transparent-header="true">
+        <div class="wrapper">
+          <div class="grid--full grid--table">
+            <div class="grid__item large--hide large--one-sixth one-quarter">
+              <div class="site-nav--open site-nav--mobile">
+                <button type="button" class="icon-fallback-text site-nav__link site-nav__link--burger js-drawer-open-button-left" aria-controls="NavDrawer">
+                  <span class="burger-icon burger-icon--top"></span>
+                  <span class="burger-icon burger-icon--mid"></span>
+                  <span class="burger-icon burger-icon--bottom"></span>
+                  <span class="fallback-text">Site navigation</span>
+                </button>
+              </div>
+            </div>
+            <div class="grid__item large--one-third medium-down--one-half">
+              
+              
+                <h1 class="site-header__logo large--left" itemscope itemtype="http://schema.org/Organization">
+              
+                
+
+                <a href="/" itemprop="url" class="site-header__logo-link">
+                  
+                    <img class="site-header__logo-image" src="//cdn.shopify.com/s/files/1/2309/6853/files/TEZZA-LOGO-2_120x.png?v=1614031128" srcset="//cdn.shopify.com/s/files/1/2309/6853/files/TEZZA-LOGO-2_120x.png?v=1614031128 1x, //cdn.shopify.com/s/files/1/2309/6853/files/TEZZA-LOGO-2_120x@2x.png?v=1614031128 2x" alt="TEZZA" itemprop="logo">
+
+                    
+                      
+
+                      <img class="site-header__logo-image site-header__logo-image--transparent" src="//cdn.shopify.com/s/files/1/2309/6853/files/TEZZA-LOGO-2-whit_120x.png?v=1614031175" srcset="//cdn.shopify.com/s/files/1/2309/6853/files/TEZZA-LOGO-2-whit_120x.png?v=1614031175 1x, //cdn.shopify.com/s/files/1/2309/6853/files/TEZZA-LOGO-2-whit_120x@2x.png?v=1614031175 2x" alt="TEZZA" itemprop="logo">
+                    
+                  
+                </a>
+              
+                </h1>
+              
+            </div>
+            <nav class="grid__item large--two-thirds large--text-right medium-down--hide" role="navigation">
+              
+              <!-- begin site-nav -->
+              <ul class="site-nav" id="AccessibleNav">
+                
+                  
+                  
+                    <li
+                      class="site-nav__item site-nav--has-dropdown "
+                      aria-haspopup="true"
+                      data-meganav-type="parent">
+                      <a
+                        href="/collections/collage-kit"
+                        class="site-nav__link"
+                        data-meganav-type="parent"
+                        aria-controls="MenuParent-1"
+                        aria-expanded="false"
+                        >
+                          Collage Kits
+                          <span class="icon icon-arrow-down" aria-hidden="true"></span>
+                      </a>
+                      <ul
+                        id="MenuParent-1"
+                        class="site-nav__dropdown "
+                        data-meganav-dropdown>
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/dream-kit"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Dream Kit
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/creamy-collage-kit"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Creamy Kit
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/coastal-kit"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Coastal Kit
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="https://www.shoptezza.com/products/city-kit"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  City Kit
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/tezza-x-charles-barton"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Charles Barton x Tezza Kit
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/collage-kit"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Tezza Collage Kit
+                              </a>
+                            </li>
+                          
+                        
+                      </ul>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="/collections/gifts-under-25"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          Gifts Under $25
+                      </a>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="https://www.shoptezza.com/collections/lightroom-presets"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          Presets
+                      </a>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="/pages/tezza-app"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          Tezza App
+                      </a>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="/pages/sophies-place"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          Sophie&#39;s Place
+                      </a>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="/pages/faqs"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          FAQs
+                      </a>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="https://lellothelabel.com"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          LELLO
+                      </a>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="/pages/labor-day-weekend-sale"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          Join the Newsletter
+                      </a>
+                    </li>
+                  
+                
+
+                
+                
+                  <li class="site-nav__item site-nav__expanded-item site-nav__item--compressed">
+                    <a class="site-nav__link site-nav__link--icon" href="/account">
+                      <span class="icon-fallback-text">
+                        <span class="icon icon-customer" aria-hidden="true"></span>
+                        <span class="fallback-text">
+                          
+                            Log In
+                          
+                        </span>
+                      </span>
+                    </a>
+                  </li>
+                
+
+                
+                  
+                  
+                  <li class="site-nav__item site-nav__item--compressed">
+                    <a href="/search" class="site-nav__link site-nav__link--icon js-toggle-search-modal" data-mfp-src="#SearchModal">
+                      <span class="icon-fallback-text">
+                        <span class="icon icon-search" aria-hidden="true"></span>
+                        <span class="fallback-text">Search</span>
+                      </span>
+                    </a>
+                  </li>
+                
+
+                <li class="site-nav__item site-nav__item--compressed">
+                  <a href="/cart" class="site-nav__link site-nav__link--icon cart-link js-drawer-open-button-right" aria-controls="CartDrawer">
+                    <span class="icon-fallback-text">
+                      <span class="icon icon-cart" aria-hidden="true"></span>
+                      <span class="fallback-text">Cart</span>
+                    </span>
+                    <span class="cart-link__bubble"></span>
+                  </a>
+                </li>
+
+              </ul>
+              <!-- //site-nav -->
+            </nav>
+            <div class="grid__item large--hide one-quarter">
+              <div class="site-nav--mobile text-right">
+                <a href="/cart" class="site-nav__link cart-link js-drawer-open-button-right" aria-controls="CartDrawer">
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-cart" aria-hidden="true"></span>
+                    <span class="fallback-text">Cart</span>
+                  </span>
+                  <span class="cart-link__bubble"></span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </header>
+    </div>
+  </div>
+</div>
+
+
+
+
+</div>
+
+  <div id="CartDrawer" class="drawer drawer--right drawer--has-fixed-footer">
+    <div class="drawer__fixed-header">
+      <div class="drawer__header">
+        <div class="drawer__title">Your cart</div>
+        <div class="drawer__close">
+          <button type="button" class="icon-fallback-text drawer__close-button js-drawer-close">
+            <span class="icon icon-x" aria-hidden="true"></span>
+            <span class="fallback-text">Close Cart</span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="drawer__inner">
+      <div id="CartContainer" class="drawer__cart"></div>
+    </div>
+  </div>
+
+  <div id="PageContainer" class="page-container">
+    <main class="main-content" role="main">
+      
+        <!-- /templates/index.liquid -->
+
+<div class="index-sections" data-sections-wrapper>
+  <!-- BEGIN content_for_index --><div id="shopify-section-slideshow" class="shopify-section index-section index-slideshow-section shopify-section--full-width"><div id="HeroWrapper-slideshow" data-section-id="slideshow" data-section-type="slideshow-section"><div class="hero-slideshow hero"
+         id="Hero-slideshow"
+         aria-label="slideshow"
+         aria-describedby="a11y-slideshow-info"
+         tabindex="-1"
+         role="region"
+         data-autoplay="false"
+         data-autoplayspeed="9000"
+         data-adapt="false"
+         data-slide-nav-a11y="Load slide [slide_number]"
+         data-slide-nav-active-a11y="Slide [slide_number], current"
+         data-slide-index="0"><style data-shopify>#HeroWrapper-slideshow .hero--color-0 .hero__pause,
+          #HeroWrapper-slideshow .hero--color-0 .hero__pause .icon:before,
+          #HeroWrapper-slideshow .hero--color-0 .slick-prev .icon:before,
+          #HeroWrapper-slideshow .hero--color-0 .slick-next .icon:before,
+          #HeroWrapper-slideshow .hero--color-0 .slide--2330cf08-397c-43cb-b3ee-4abf9ece3133 {
+            color: #ffffff;
+          }
+          #HeroWrapper-slideshow .hero--color-0 .slick-dots li a:before {
+            background: transparent;
+            border-color: #ffffff;
+          }
+          #HeroWrapper-slideshow .hero--color-0 li.slick-active a:before {
+            background: #ffffff;
+            border-color: transparent;
+          }
+          #HeroWrapper-slideshow .hero--color-0 .hero__pause .icon {
+            fill: #ffffff;
+          }
+          #HeroWrapper-slideshow .slide--2330cf08-397c-43cb-b3ee-4abf9ece3133 .hero__text-wrap {
+            text-align: center
+          }</style><style data-shopify>.slide--2330cf08-397c-43cb-b3ee-4abf9ece3133 .slideshow__overlay:before {background-image: linear-gradient(to bottom,
+                                                rgba(0, 0, 0, 0.19),
+                                                rgba(0, 0, 0, 0.19) calc(100% - 150px),
+                                                rgba(0, 0, 0, 0.32) calc(100% - 60px),
+                                                rgba(0, 0, 0, 0.44));
+            }</style><div class="hero__slide slide--2330cf08-397c-43cb-b3ee-4abf9ece3133"
+              data-hero-slide
+              ><noscript><div class="hero__image-no-js" style="background-image: url('//cdn.shopify.com/s/files/1/2309/6853/files/000003710018_2048x.jpg?v=1638173717');"></div></noscript><img class="hero__image hero__image--2330cf08-397c-43cb-b3ee-4abf9ece3133 lazyload fade-in"src="//cdn.shopify.com/s/files/1/2309/6853/files/000003710018_300x.jpg?v=1638173717"data-src="//cdn.shopify.com/s/files/1/2309/6853/files/000003710018_{width}x.jpg?v=1638173717"
+              data-widths="[540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="0.6629834254143646"
+              data-sizes="auto"
+              data-parent-fit="cover"
+              data-hero-image
+              alt=""
+              style="object-position: center center"><div class="hero__text-wrap slideshow__overlay">
+            <div class="hero__text-align wrapper">
+              <div class="hero__text-content" data-hero-text-content><p class="hero__subtitle">
+                    add some magic to your space
+                  </p><h2 class="hero__title h1">
+                    Collage Kits
+                  </h2><a href="/collections/collage-kit" style="color: #000000; background-color: #ffffff" class="btn hero__cta">
+                    Shop all kits
+                  </a></div>
+            </div>
+          </div>
+        </div><style data-shopify>#HeroWrapper-slideshow .hero--color-1 .hero__pause,
+          #HeroWrapper-slideshow .hero--color-1 .hero__pause .icon:before,
+          #HeroWrapper-slideshow .hero--color-1 .slick-prev .icon:before,
+          #HeroWrapper-slideshow .hero--color-1 .slick-next .icon:before,
+          #HeroWrapper-slideshow .hero--color-1 .slide--slideshow-1 {
+            color: #ffffff;
+          }
+          #HeroWrapper-slideshow .hero--color-1 .slick-dots li a:before {
+            background: transparent;
+            border-color: #ffffff;
+          }
+          #HeroWrapper-slideshow .hero--color-1 li.slick-active a:before {
+            background: #ffffff;
+            border-color: transparent;
+          }
+          #HeroWrapper-slideshow .hero--color-1 .hero__pause .icon {
+            fill: #ffffff;
+          }
+          #HeroWrapper-slideshow .slide--slideshow-1 .hero__text-wrap {
+            text-align: center
+          }</style><style data-shopify>.slide--slideshow-1 .slideshow__overlay:before {background-image: linear-gradient(to bottom,
+                                                rgba(0, 0, 0, 0.13),
+                                                rgba(0, 0, 0, 0.13) calc(100% - 150px),
+                                                rgba(0, 0, 0, 0.26) calc(100% - 60px),
+                                                rgba(0, 0, 0, 0.38));
+            }</style><div class="hero__slide slide--slideshow-1"
+              data-hero-slide
+              ><noscript></noscript><img class="hero__image hero__image--slideshow-1 lazyload fade-in lazypreload"data-src="//cdn.shopify.com/s/files/1/2309/6853/files/cybermon_{width}x.jpg?v=1638173978"
+              data-widths="[540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="0.8"
+              data-sizes="auto"
+              data-parent-fit="cover"
+              data-hero-image
+              alt=""
+              style="object-position: right center"><div class="hero__text-wrap slideshow__overlay">
+            <div class="hero__text-align wrapper">
+              <div class="hero__text-content" data-hero-text-content><p class="hero__subtitle">
+                    new collection
+                  </p><h2 class="hero__title h1">
+                    Creative Department
+                  </h2><a href="/collections/creative-department-1" style="color: #000000; background-color: #ffffff" class="btn hero__cta">
+                    shop CREATIVE DEPT
+                  </a></div>
+            </div>
+          </div>
+        </div><style data-shopify>#HeroWrapper-slideshow .hero--color-2 .hero__pause,
+          #HeroWrapper-slideshow .hero--color-2 .hero__pause .icon:before,
+          #HeroWrapper-slideshow .hero--color-2 .slick-prev .icon:before,
+          #HeroWrapper-slideshow .hero--color-2 .slick-next .icon:before,
+          #HeroWrapper-slideshow .hero--color-2 .slide--23608054-36e7-4deb-bee5-319f1dea42c9 {
+            color: #ffffff;
+          }
+          #HeroWrapper-slideshow .hero--color-2 .slick-dots li a:before {
+            background: transparent;
+            border-color: #ffffff;
+          }
+          #HeroWrapper-slideshow .hero--color-2 li.slick-active a:before {
+            background: #ffffff;
+            border-color: transparent;
+          }
+          #HeroWrapper-slideshow .hero--color-2 .hero__pause .icon {
+            fill: #ffffff;
+          }
+          #HeroWrapper-slideshow .slide--23608054-36e7-4deb-bee5-319f1dea42c9 .hero__text-wrap {
+            text-align: center
+          }</style><style data-shopify>.slide--23608054-36e7-4deb-bee5-319f1dea42c9 .slideshow__overlay:before {background-image: linear-gradient(to bottom,
+                                                rgba(0, 0, 0, 0.1),
+                                                rgba(0, 0, 0, 0.1) calc(100% - 150px),
+                                                rgba(0, 0, 0, 0.23) calc(100% - 60px),
+                                                rgba(0, 0, 0, 0.35));
+            }</style><div class="hero__slide slide--23608054-36e7-4deb-bee5-319f1dea42c9"
+              data-hero-slide
+              ><noscript></noscript><img class="hero__image hero__image--23608054-36e7-4deb-bee5-319f1dea42c9 lazyload fade-in lazypreload"data-src="//cdn.shopify.com/s/files/1/2309/6853/files/2J9A0247_{width}x.jpg?v=1638174173"
+              data-widths="[540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="0.8"
+              data-sizes="auto"
+              data-parent-fit="cover"
+              data-hero-image
+              alt=""
+              style="object-position: center center"><div class="hero__text-wrap slideshow__overlay">
+            <div class="hero__text-align wrapper">
+              <div class="hero__text-content" data-hero-text-content><p class="hero__subtitle">
+                    limited edition
+                  </p><h2 class="hero__title h1">
+                    Tezza x The Caker
+                  </h2><a href="/products/tezza-x-the-caker-coconut-raspberry-lime-leaf-cake-kit" style="color: #000000; background-color: #ffffff" class="btn hero__cta">
+                    SHOP THE CAKE KIT
+                  </a></div>
+            </div>
+          </div>
+        </div><style data-shopify>#HeroWrapper-slideshow .hero--color-3 .hero__pause,
+          #HeroWrapper-slideshow .hero--color-3 .hero__pause .icon:before,
+          #HeroWrapper-slideshow .hero--color-3 .slick-prev .icon:before,
+          #HeroWrapper-slideshow .hero--color-3 .slick-next .icon:before,
+          #HeroWrapper-slideshow .hero--color-3 .slide--cb44521a-f56f-4392-8af6-a485757192aa {
+            color: #ffffff;
+          }
+          #HeroWrapper-slideshow .hero--color-3 .slick-dots li a:before {
+            background: transparent;
+            border-color: #ffffff;
+          }
+          #HeroWrapper-slideshow .hero--color-3 li.slick-active a:before {
+            background: #ffffff;
+            border-color: transparent;
+          }
+          #HeroWrapper-slideshow .hero--color-3 .hero__pause .icon {
+            fill: #ffffff;
+          }
+          #HeroWrapper-slideshow .slide--cb44521a-f56f-4392-8af6-a485757192aa .hero__text-wrap {
+            text-align: center
+          }</style><style data-shopify>.slide--cb44521a-f56f-4392-8af6-a485757192aa .slideshow__overlay:before {background-image: linear-gradient(to bottom,
+                                                rgba(0, 0, 0, 0.06),
+                                                rgba(0, 0, 0, 0.06) calc(100% - 150px),
+                                                rgba(0, 0, 0, 0.19) calc(100% - 60px),
+                                                rgba(0, 0, 0, 0.31));
+            }</style><div class="hero__slide slide--cb44521a-f56f-4392-8af6-a485757192aa"
+              data-hero-slide
+              ><noscript></noscript><img class="hero__image hero__image--cb44521a-f56f-4392-8af6-a485757192aa lazyload fade-in lazypreload"data-src="//cdn.shopify.com/s/files/1/2309/6853/files/VintageBF4_1024x1024_8402df3f-4407-434b-888c-33725ce04219_{width}x.jpg?v=1637769743"
+              data-widths="[540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048, 4472]"
+              data-aspectratio="1.3333333333333333"
+              data-sizes="auto"
+              data-parent-fit="cover"
+              data-hero-image
+              alt=""
+              style="object-position: center center"><div class="hero__text-wrap slideshow__overlay">
+            <div class="hero__text-align wrapper">
+              <div class="hero__text-content" data-hero-text-content><p class="hero__subtitle">
+                    transform your photos on your desktop
+                  </p><h2 class="hero__title h1">
+                    Lightroom Presets
+                  </h2><a href="/collections/lightroom-presets" style="color: #000000; background-color: #ffffff" class="btn hero__cta">
+                    shop LIGHTROOM PRESETS
+                  </a></div>
+            </div>
+          </div>
+        </div><div class="hero__controls wrapper"><ul>
+            <li>
+              <button class="slick-prev" aria-label="Previous slide" data-slide-previous>
+                <span class="icon icon-slide-prev" aria-hidden="true"></span>
+              </button>
+            </li>
+            <li>
+              <button class="slick-next" aria-label="Next slide" data-slide-next>
+                <span class="icon icon-slide-next" aria-hidden="true"></span>
+              </button>
+            </li>
+          </ul>
+          <div class="hero__dots-wrapper" data-hero-dots-wrapper></div>
+        </div></div></div>
+
+
+</div><div id="shopify-section-1580442204536" class="shopify-section"><div id="CollectionSection" data-section-id="1580442204536" data-section-type="collection-template" data-grid-type="grid">
+  <div class="wrapper">
+    
+      <div class="section-header text-center">
+        <h2 class="h1 section-header__title">Collage Kits</h2>
+        <hr class="hr--small">
+      </div>
+    
+
+    <div class="grid-uniform">
+
+      
+
+      
+
+        
+
+          
+          
+            <!-- /snippets/product-grid-item.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item grid-product medium--one-half large--one-third">
+  <div class="grid-product__wrapper">
+    <div class="grid-product__image-wrapper">
+      <a class="grid-product__image-link grid-product__image-link--loading" href="/products/creamy-collage-kit" data-image-link>
+        
+          <style>
+  
+
+  @media screen and (min-width: 591px) { 
+    .ProductImage-28404724039795 {
+      max-width: 276.66666666666663px;
+      max-height: 415px;
+    }
+    #ProductImageWrapper-28404724039795 {
+      max-width: 276.66666666666663px;
+    }
+   } 
+
+  
+    
+    @media screen and (max-width: 590px) {
+      .ProductImage-28404724039795 {
+        max-width: 196.66666666666666px;
+      }
+      #ProductImageWrapper-28404724039795 {
+        max-width: 196.66666666666666px;
+      }
+    }
+  
+</style>
+
+          <div id="ProductImageWrapper-28404724039795" class="product--wrapper">
+            <div style="padding-top:150.0%;">
+              <div class="reveal">
+              <img class="product--image lazyload ProductImage-28404724039795"
+                   data-src="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A9609_{width}x.jpg?v=1628268865"
+                   data-widths="[180, 370, 590, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                   data-aspectratio="0.6666666666666666"
+                   data-sizes="auto"
+                   alt="Creamy Collage Kit"
+                   data-image>
+                
+                <div class="hidden">
+                <img src="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A9945.jpg?v=1628188721" alt="Creamy Collage Kit" />
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <noscript>
+            <img class="grid-product__image" src="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A9609_1024x.jpg?v=1628268865" alt="Creamy Collage Kit">
+          </noscript>
+        
+      </a>
+      
+    </div>
+
+    <a href="/products/creamy-collage-kit" class="grid-product__meta">
+      <span class="grid-product__title">Creamy Collage Kit</span>
+      <span class="grid-product__price-wrap">
+        <span class="long-dash">—</span>
+        <span class="grid-product__price">
+          
+             <span class="visually-hidden">Regular price</span>
+          
+          
+            <span class=money>$49</span>
+          
+        </span></span>
+      
+    </a>
+  </div>
+</div>
+
+          
+            <!-- /snippets/product-grid-item.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item grid-product medium--one-half large--one-third">
+  <div class="grid-product__wrapper">
+    <div class="grid-product__image-wrapper">
+      <a class="grid-product__image-link grid-product__image-link--loading" href="/products/dream-kit" data-image-link>
+        
+          <style>
+  
+
+  @media screen and (min-width: 591px) { 
+    .ProductImage-13776349823091 {
+      max-width: 289.72157092614304px;
+      max-height: 415px;
+    }
+    #ProductImageWrapper-13776349823091 {
+      max-width: 289.72157092614304px;
+    }
+   } 
+
+  
+    
+    @media screen and (max-width: 590px) {
+      .ProductImage-13776349823091 {
+        max-width: 205.9466588511137px;
+      }
+      #ProductImageWrapper-13776349823091 {
+        max-width: 205.9466588511137px;
+      }
+    }
+  
+</style>
+
+          <div id="ProductImageWrapper-13776349823091" class="product--wrapper">
+            <div style="padding-top:143.240974%;">
+              <div class="reveal">
+              <img class="product--image lazyload ProductImage-13776349823091"
+                   data-src="//cdn.shopify.com/s/files/1/2309/6853/products/dreamkit_{width}x.jpg?v=1580219663"
+                   data-widths="[180, 370, 590, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                   data-aspectratio="0.6981242672919109"
+                   data-sizes="auto"
+                   alt="Dream Kit"
+                   data-image>
+                
+                <div class="hidden">
+                <img src="//cdn.shopify.com/s/files/1/2309/6853/products/000003710017.jpg?v=1580157125" alt="Dream Kit" />
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <noscript>
+            <img class="grid-product__image" src="//cdn.shopify.com/s/files/1/2309/6853/products/dreamkit_1024x.jpg?v=1580219663" alt="Dream Kit">
+          </noscript>
+        
+      </a>
+      
+    </div>
+
+    <a href="/products/dream-kit" class="grid-product__meta">
+      <span class="grid-product__title">Dream Kit</span>
+      <span class="grid-product__price-wrap">
+        <span class="long-dash">—</span>
+        <span class="grid-product__price">
+          
+             <span class="visually-hidden">Regular price</span>
+          
+          
+            <span class=money>$49</span>
+          
+        </span></span>
+      
+    </a>
+  </div>
+</div>
+
+          
+            <!-- /snippets/product-grid-item.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item grid-product medium--one-half large--one-third">
+  <div class="grid-product__wrapper">
+    <div class="grid-product__image-wrapper">
+      <a class="grid-product__image-link grid-product__image-link--loading" href="/products/collage-kit" data-image-link>
+        
+          <style>
+  
+
+  @media screen and (min-width: 591px) { 
+    .ProductImage-13686309650547 {
+      max-width: 289.76331360946745px;
+      max-height: 415px;
+    }
+    #ProductImageWrapper-13686309650547 {
+      max-width: 289.76331360946745px;
+    }
+   } 
+
+  
+    
+    @media screen and (max-width: 590px) {
+      .ProductImage-13686309650547 {
+        max-width: 205.97633136094674px;
+      }
+      #ProductImageWrapper-13686309650547 {
+        max-width: 205.97633136094674px;
+      }
+    }
+  
+</style>
+
+          <div id="ProductImageWrapper-13686309650547" class="product--wrapper">
+            <div style="padding-top:143.220339%;">
+              <div class="reveal">
+              <img class="product--image lazyload ProductImage-13686309650547"
+                   data-src="//cdn.shopify.com/s/files/1/2309/6853/products/collagethumb_{width}x.png?v=1578499688"
+                   data-widths="[180, 370, 590, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                   data-aspectratio="0.6982248520710059"
+                   data-sizes="auto"
+                   alt="Tezza Collage Kit"
+                   data-image>
+                
+                <div class="hidden">
+                <img src="//cdn.shopify.com/s/files/1/2309/6853/products/Artboard_3.jpg?v=1578499695" alt="Tezza Collage Kit" />
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <noscript>
+            <img class="grid-product__image" src="//cdn.shopify.com/s/files/1/2309/6853/products/collagethumb_1024x.png?v=1578499688" alt="Tezza Collage Kit">
+          </noscript>
+        
+      </a>
+      
+    </div>
+
+    <a href="/products/collage-kit" class="grid-product__meta">
+      <span class="grid-product__title">Tezza Collage Kit</span>
+      <span class="grid-product__price-wrap">
+        <span class="long-dash">—</span>
+        <span class="grid-product__price">
+          
+             <span class="visually-hidden">Regular price</span>
+          
+          
+            <span class=money>$89</span>
+          
+        </span></span>
+      
+    </a>
+  </div>
+</div>
+
+          
+            <!-- /snippets/product-grid-item.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item grid-product medium--one-half large--one-third">
+  <div class="grid-product__wrapper">
+    <div class="grid-product__image-wrapper">
+      <a class="grid-product__image-link grid-product__image-link--loading" href="/products/coastal-kit" data-image-link>
+        
+          <style>
+  
+
+  @media screen and (min-width: 591px) { 
+    .ProductImage-13686300278899 {
+      max-width: 289.76331360946745px;
+      max-height: 415px;
+    }
+    #ProductImageWrapper-13686300278899 {
+      max-width: 289.76331360946745px;
+    }
+   } 
+
+  
+    
+    @media screen and (max-width: 590px) {
+      .ProductImage-13686300278899 {
+        max-width: 205.97633136094674px;
+      }
+      #ProductImageWrapper-13686300278899 {
+        max-width: 205.97633136094674px;
+      }
+    }
+  
+</style>
+
+          <div id="ProductImageWrapper-13686300278899" class="product--wrapper">
+            <div style="padding-top:143.220339%;">
+              <div class="reveal">
+              <img class="product--image lazyload ProductImage-13686300278899"
+                   data-src="//cdn.shopify.com/s/files/1/2309/6853/products/coastalthumb_{width}x.png?v=1578499535"
+                   data-widths="[180, 370, 590, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                   data-aspectratio="0.6982248520710059"
+                   data-sizes="auto"
+                   alt="Coastal Kit"
+                   data-image>
+                
+                <div class="hidden">
+                <img src="//cdn.shopify.com/s/files/1/2309/6853/products/6D2A4239.jpg?v=1578499541" alt="Coastal Kit" />
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <noscript>
+            <img class="grid-product__image" src="//cdn.shopify.com/s/files/1/2309/6853/products/coastalthumb_1024x.png?v=1578499535" alt="Coastal Kit">
+          </noscript>
+        
+      </a>
+      
+    </div>
+
+    <a href="/products/coastal-kit" class="grid-product__meta">
+      <span class="grid-product__title">Coastal Kit</span>
+      <span class="grid-product__price-wrap">
+        <span class="long-dash">—</span>
+        <span class="grid-product__price">
+          
+             <span class="visually-hidden">Regular price</span>
+          
+          
+            <span class=money>$89</span>
+          
+        </span></span>
+      
+    </a>
+  </div>
+</div>
+
+          
+            <!-- /snippets/product-grid-item.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item grid-product medium--one-half large--one-third">
+  <div class="grid-product__wrapper">
+    <div class="grid-product__image-wrapper">
+      <a class="grid-product__image-link grid-product__image-link--loading" href="/products/city-kit" data-image-link>
+        
+          <style>
+  
+
+  @media screen and (min-width: 591px) { 
+    .ProductImage-13686302376051 {
+      max-width: 289.76331360946745px;
+      max-height: 415px;
+    }
+    #ProductImageWrapper-13686302376051 {
+      max-width: 289.76331360946745px;
+    }
+   } 
+
+  
+    
+    @media screen and (max-width: 590px) {
+      .ProductImage-13686302376051 {
+        max-width: 205.97633136094674px;
+      }
+      #ProductImageWrapper-13686302376051 {
+        max-width: 205.97633136094674px;
+      }
+    }
+  
+</style>
+
+          <div id="ProductImageWrapper-13686302376051" class="product--wrapper">
+            <div style="padding-top:143.220339%;">
+              <div class="reveal">
+              <img class="product--image lazyload ProductImage-13686302376051"
+                   data-src="//cdn.shopify.com/s/files/1/2309/6853/products/citythumb_{width}x.png?v=1578499579"
+                   data-widths="[180, 370, 590, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                   data-aspectratio="0.6982248520710059"
+                   data-sizes="auto"
+                   alt="City Kit"
+                   data-image>
+                
+                <div class="hidden">
+                <img src="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A3315.jpg?v=1574782571" alt="City Kit" />
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <noscript>
+            <img class="grid-product__image" src="//cdn.shopify.com/s/files/1/2309/6853/products/citythumb_1024x.png?v=1578499579" alt="City Kit">
+          </noscript>
+        
+      </a>
+      
+    </div>
+
+    <a href="/products/city-kit" class="grid-product__meta">
+      <span class="grid-product__title">City Kit</span>
+      <span class="grid-product__price-wrap">
+        <span class="long-dash">—</span>
+        <span class="grid-product__price">
+          
+             <span class="visually-hidden">Regular price</span>
+          
+          
+            <span class=money>$89</span>
+          
+        </span></span>
+      
+    </a>
+  </div>
+</div>
+
+          
+            <!-- /snippets/product-grid-item.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item grid-product medium--one-half large--one-third">
+  <div class="grid-product__wrapper">
+    <div class="grid-product__image-wrapper">
+      <a class="grid-product__image-link grid-product__image-link--loading" href="/products/tezza-x-charles-barton" data-image-link>
+        
+          <style>
+  
+
+  @media screen and (min-width: 591px) { 
+    .ProductImage-15366710886515 {
+      max-width: 276.70169663205877px;
+      max-height: 415px;
+    }
+    #ProductImageWrapper-15366710886515 {
+      max-width: 276.70169663205877px;
+    }
+   } 
+
+  
+    
+    @media screen and (max-width: 590px) {
+      .ProductImage-15366710886515 {
+        max-width: 196.69156748543935px;
+      }
+      #ProductImageWrapper-15366710886515 {
+        max-width: 196.69156748543935px;
+      }
+    }
+  
+</style>
+
+          <div id="ProductImageWrapper-15366710886515" class="product--wrapper">
+            <div style="padding-top:149.9810103%;">
+              <div class="reveal">
+              <img class="product--image lazyload ProductImage-15366710886515"
+                   data-src="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A5935_{width}x.jpg?v=1603822862"
+                   data-widths="[180, 370, 590, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                   data-aspectratio="0.6667510762218283"
+                   data-sizes="auto"
+                   alt="Tezza x Charles Barton"
+                   data-image>
+                
+                <div class="hidden">
+                <img src="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A5733.jpg?v=1603822861" alt="Tezza x Charles Barton" />
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <noscript>
+            <img class="grid-product__image" src="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A5935_1024x.jpg?v=1603822862" alt="Tezza x Charles Barton">
+          </noscript>
+        
+      </a>
+      
+    </div>
+
+    <a href="/products/tezza-x-charles-barton" class="grid-product__meta">
+      <span class="grid-product__title">Tezza x Charles Barton</span>
+      <span class="grid-product__price-wrap">
+        <span class="long-dash">—</span>
+        <span class="grid-product__price">
+          
+             <span class="visually-hidden">Regular price</span>
+          
+          
+            <span class=money>$89</span>
+          
+        </span></span>
+      
+    </a>
+  </div>
+</div>
+
+          
+
+        
+
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+</div><div id="shopify-section-1639153028df666553" class="shopify-section index-section rich-text-section"><div data-section-id="1639153028df666553" data-section-type="featured-content-section">
+  <div class="rich-text wrapper">
+    <div class="grid">
+      <div class="grid__item text-center large--two-thirds medium--two-thirds push--large--one-sixth push--medium--one-sixth">
+        
+          <div class="section-header">
+            <h2 class="rich-text__heading--large section-header__title h1">Now Available: Extended sizing for iPhone cases!</h2>
+          </div>
+        
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+</div><div id="shopify-section-1639152865972b375b" class="shopify-section"><div itemscope itemtype="http://schema.org/Product" id="FeaturedProductSection--1639152865972b375b" data-section-id="1639152865972b375b" data-section-type="product-template" data-image-zoom-type="true" data-enable-history-state="false">
+  <div class="wrapper">
+
+    <meta itemprop="url" content="https://www.shoptezza.com/products/iphone-case">
+    <meta itemprop="image" content="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A1640_06b51ff4-a2c0-428a-b497-2a579d9679b8_grande.jpg?v=1639010674">
+
+    <div class="grid product-single">
+      <div class="grid__item large--seven-twelfths medium--seven-twelfths text-center">
+        <div class="product-single__photos">
+          
+            
+
+            
+              
+              
+              
+              <style>
+  
+
+  
+    .ProductImage-28951107666035 {
+      max-width: 640.0px;
+      max-height: 800px;
+    }
+    #ProductImageWrapper-28951107666035 {
+      max-width: 640.0px;
+    }
+  
+
+  
+</style>
+
+
+              <div id="ProductImageWrapper-28951107666035" class="product-single__photo-wrapper product-single__photo-wrapper--featured-product supports-js" data-image-id="28951107666035">
+                <div style="padding-top:125.0%;">
+                  <img class="lazyload lazypreload ProductImage-28951107666035"
+                      src="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A1640_06b51ff4-a2c0-428a-b497-2a579d9679b8_300x300.jpg?v=1639010674"
+                      data-src="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A1640_06b51ff4-a2c0-428a-b497-2a579d9679b8_{width}x.jpg?v=1639010674"
+                      data-widths="[180, 370, 540, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                      data-aspectratio="0.8"
+                      data-sizes="auto"
+                      alt="Creative Department Phone Case">
+                </div>
+              </div>
+            
+              
+              
+              
+              <style>
+  
+
+  
+    .ProductImage-28951109271667 {
+      max-width: 640.2010050251256px;
+      max-height: 800px;
+    }
+    #ProductImageWrapper-28951109271667 {
+      max-width: 640.2010050251256px;
+    }
+  
+
+  
+</style>
+
+
+              <div id="ProductImageWrapper-28951109271667" class="product-single__photo-wrapper product-single__photo-wrapper--featured-product supports-js hide" data-image-id="28951109271667">
+                <div style="padding-top:124.9607535%;">
+                  <img class="lazyload lazypreload ProductImage-28951109271667"
+                      src="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A9610_124bd19b-ae9b-413b-8a77-b1d51875a9d3_300x300.jpg?v=1639010674"
+                      data-src="//cdn.shopify.com/s/files/1/2309/6853/products/2J9A9610_124bd19b-ae9b-413b-8a77-b1d51875a9d3_{width}x.jpg?v=1639010674"
+                      data-widths="[180, 370, 540, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                      data-aspectratio="0.800251256281407"
+                      data-sizes="auto"
+                      alt="Creative Department Phone Case">
+                </div>
+              </div>
+            
+              
+              
+              
+              <style>
+  
+
+  
+    .ProductImage-28785382359155 {
+      max-width: 800.0px;
+      max-height: 800px;
+    }
+    #ProductImageWrapper-28785382359155 {
+      max-width: 800.0px;
+    }
+  
+
+  
+</style>
+
+
+              <div id="ProductImageWrapper-28785382359155" class="product-single__photo-wrapper product-single__photo-wrapper--featured-product supports-js hide" data-image-id="28785382359155">
+                <div style="padding-top:100.0%;">
+                  <img class="lazyload lazypreload ProductImage-28785382359155"
+                      src="//cdn.shopify.com/s/files/1/2309/6853/products/iphone-case-iphone-11-pro-max-case-on-phone-6192cab274983_300x300.jpg?v=1639010674"
+                      data-src="//cdn.shopify.com/s/files/1/2309/6853/products/iphone-case-iphone-11-pro-max-case-on-phone-6192cab274983_{width}x.jpg?v=1639010674"
+                      data-widths="[180, 370, 540, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                      data-aspectratio="1.0"
+                      data-sizes="auto"
+                      alt="Creative Department Phone Case">
+                </div>
+              </div>
+            
+              
+              
+              
+              <style>
+  
+
+  
+    .ProductImage-28785382752371 {
+      max-width: 800.0px;
+      max-height: 800px;
+    }
+    #ProductImageWrapper-28785382752371 {
+      max-width: 800.0px;
+    }
+  
+
+  
+</style>
+
+
+              <div id="ProductImageWrapper-28785382752371" class="product-single__photo-wrapper product-single__photo-wrapper--featured-product supports-js hide" data-image-id="28785382752371">
+                <div style="padding-top:100.0%;">
+                  <img class="lazyload lazypreload ProductImage-28785382752371"
+                      src="//cdn.shopify.com/s/files/1/2309/6853/products/iphone-case-iphone-11-pro-max-case-with-phone-6192cab2749e7_300x300.jpg?v=1639010674"
+                      data-src="//cdn.shopify.com/s/files/1/2309/6853/products/iphone-case-iphone-11-pro-max-case-with-phone-6192cab2749e7_{width}x.jpg?v=1639010674"
+                      data-widths="[180, 370, 540, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                      data-aspectratio="1.0"
+                      data-sizes="auto"
+                      alt="Creative Department Phone Case">
+                </div>
+              </div>
+            
+          
+        </div>
+      </div>
+
+      <div class="grid__item product-single__meta--wrapper medium--five-twelfths large--five-twelfths">
+        
+          <h2 class="product-single__vendor" itemprop="brand">TEZZA</h2>
+        
+
+        <h1 class="product-single__title" itemprop="name">Creative Department Phone Case</h1>
+
+        <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          
+          <div class="price-container" data-price-container><span id="PriceA11y" class="visually-hidden">Regular price</span>
+    <span class="product-single__price--wrapper hide" aria-hidden="true">
+      <span id="ComparePrice" class="product-single__price--compare-at"></span>
+    </span>
+    <span id="ComparePriceA11y" class="visually-hidden" aria-hidden="true">Sale price</span><span id="ProductPrice"
+    class="product-single__price"
+    itemprop="price"
+    content="25.0">
+    <span class=money>$25.00</span>
+  </span>
+
+  <div class="product-single__unit"><span class="product-unit-price">
+      <span class="visually-hidden">Unit price</span>
+      <span data-unit-price></span><span aria-hidden="true">/</span><span class="visually-hidden">&nbsp;per&nbsp;</span><span data-unit-price-base-unit></span></span>
+  </div>
+</div>
+
+<hr class="hr--small">
+
+          <meta itemprop="priceCurrency" content="USD">
+          <link itemprop="availability" href="http://schema.org/InStock">
+
+          
+            
+
+            
+
+            <form method="post" action="/cart/add" id="AddToCartForm--1639152865972b375b" accept-charset="UTF-8" class="
+              product-single__form
+" enctype="multipart/form-data" data-product-form=""><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" />
+              
+                
+                  <div class="radio-wrapper js product-form__item">
+                    <label class="single-option-radio__label"
+                      for="ProductSelect--1639152865972b375b-option-0">
+                      Size
+                    </label>
+                    <fieldset class="single-option-radio"
+
+                      id="ProductSelect--1639152865972b375b-option-0">
+                      
+                      
+                        
+                        
+                        <input type="radio"
+                           checked="checked"
+                          
+                          value="iPhone 11"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone 11">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone 11">iPhone 11</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone 11 Pro"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone 11 Pro">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone 11 Pro">iPhone 11 Pro</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone 11 Pro Max"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone 11 Pro Max">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone 11 Pro Max">iPhone 11 Pro Max</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone 12"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone 12">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone 12">iPhone 12</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone 12 mini"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone 12 mini">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone 12 mini">iPhone 12 mini</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone 12 Pro"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone 12 Pro">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone 12 Pro">iPhone 12 Pro</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone 12 Pro Max"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone 12 Pro Max">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone 12 Pro Max">iPhone 12 Pro Max</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone 13 mini"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone 13 mini">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone 13 mini">iPhone 13 mini</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone 13"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone 13">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone 13">iPhone 13</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone SE"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone SE">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone SE">iPhone SE</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone X/XS"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone X/XS">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone X/XS">iPhone X/XS</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone XR"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone XR">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone XR">iPhone XR</label>
+                      
+                        
+                        
+                        <input type="radio"
+                          
+                          
+                          value="iPhone XS Max"
+                          data-index="option1"
+                          name="option1"
+                          class="single-option-selector__radio"
+                          id="ProductSelect--1639152865972b375b-option-size-iPhone XS Max">
+                        <label for="ProductSelect--1639152865972b375b-option-size-iPhone XS Max">iPhone XS Max</label>
+                      
+                    </fieldset>
+                  </div>
+                
+              
+
+              <select name="id" id="ProductSelect" class="product-single__variants no-js">
+                
+                  
+                    <option 
+                      selected="selected" 
+                      data-sku="9136033_10994"
+                      value="39554102919283">
+                      iPhone 11 - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_10995"
+                      value="39554102952051">
+                      iPhone 11 Pro - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_10996"
+                      value="39554102984819">
+                      iPhone 11 Pro Max - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_11704"
+                      value="39554103017587">
+                      iPhone 12 - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_11703"
+                      value="39554103050355">
+                      iPhone 12 mini - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_11808"
+                      value="39554103083123">
+                      iPhone 12 Pro - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_11705"
+                      value="39554103115891">
+                      iPhone 12 Pro Max - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_13428"
+                      value="39554103148659">
+                      iPhone 13 mini - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_13427"
+                      value="39554103181427">
+                      iPhone 13 - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_11452"
+                      value="39554103214195">
+                      iPhone SE - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_8933"
+                      value="39554103246963">
+                      iPhone X/XS - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_9621"
+                      value="39554103279731">
+                      iPhone XR - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+                  
+                    <option 
+                      data-sku="9136033_9620"
+                      value="39554103312499">
+                      iPhone XS Max - <span class=money>$25.00 USD</span>
+                    </option>
+                  
+                
+              </select>
+
+              <div class="product-single__add-to-cart">
+                <button type="submit" name="add" id="AddToCart--1639152865972b375b" class="btn btn--add-to-cart btn--secondary-accent">
+                  <span class="btn__text">
+                    
+                      Add to Cart
+                    
+                  </span>
+                </button>
+                
+                  <div data-shopify="payment-button" data-has-selling-plan="false" class="shopify-payment-button"><button class="shopify-payment-button__button shopify-payment-button__button--unbranded shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button><button class="shopify-payment-button__more-options shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button></div>
+                
+              </div>
+            </form>
+          
+        </div>
+
+        <a class="product-single__full-details text-link" href="/products/iphone-case?variant=39554102919283">
+          Full details <span class="icon icon-arrow-right" aria-hidden="true"></span>
+        </a>
+
+        
+      </div>
+    </div>
+
+    
+  </div>
+</div>
+
+  <script type="application/json" id="ProductJson-1639152865972b375b">
+    {"id":6676130136179,"title":"Creative Department Phone Case","handle":"iphone-case","description":"\u003cp\u003eThis sleek iPhone case protects your phone from scratches, dust, oil, and dirt. It has a solid back and flexible sides that make it easy to take on and off, with precisely aligned port openings.\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003e*NOTE: This product is not eligible for returns or exchanges*\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003e• BPA free Hybrid Thermoplastic Polyurethane (TPU) and Polycarbonate (PC) material\u003cbr\u003e • Solid polycarbonate back\u003cbr\u003e • Flexible, see-through polyurethane sides\u003cbr\u003e • .5 mm raised bezel\u003cbr\u003e • Precisely aligned port openings\u003cbr\u003e • Easy to take on and off\u003cbr\u003e • Wireless charging compatible\u003cbr\u003e • The SE case fits the 2020 iPhone SE model\u003cbr\u003e\u003c\/p\u003e","published_at":"2021-12-08T16:45:24-08:00","created_at":"2021-11-15T13:01:42-08:00","vendor":"TEZZA","type":"","tags":[],"price":2500,"price_min":2500,"price_max":2500,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":39554102919283,"title":"iPhone 11","option1":"iPhone 11","option2":null,"option3":null,"sku":"9136033_10994","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone 11","public_title":"iPhone 11","options":["iPhone 11"],"price":2500,"weight":26,"compare_at_price":null,"inventory_quantity":-3,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554102952051,"title":"iPhone 11 Pro","option1":"iPhone 11 Pro","option2":null,"option3":null,"sku":"9136033_10995","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone 11 Pro","public_title":"iPhone 11 Pro","options":["iPhone 11 Pro"],"price":2500,"weight":26,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554102984819,"title":"iPhone 11 Pro Max","option1":"iPhone 11 Pro Max","option2":null,"option3":null,"sku":"9136033_10996","requires_shipping":true,"taxable":true,"featured_image":{"id":28785382359155,"product_id":6676130136179,"position":3,"created_at":"2021-11-15T13:01:49-08:00","updated_at":"2021-12-08T16:44:34-08:00","alt":null,"width":1000,"height":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/iphone-case-iphone-11-pro-max-case-on-phone-6192cab274983.jpg?v=1639010674","variant_ids":[39554102984819]},"available":true,"name":"Creative Department Phone Case - iPhone 11 Pro Max","public_title":"iPhone 11 Pro Max","options":["iPhone 11 Pro Max"],"price":2500,"weight":26,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"deny","barcode":null,"featured_media":{"alt":null,"id":21069998293107,"position":3,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/iphone-case-iphone-11-pro-max-case-on-phone-6192cab274983.jpg?v=1639010674"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554103017587,"title":"iPhone 12","option1":"iPhone 12","option2":null,"option3":null,"sku":"9136033_11704","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone 12","public_title":"iPhone 12","options":["iPhone 12"],"price":2500,"weight":23,"compare_at_price":null,"inventory_quantity":-2,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554103050355,"title":"iPhone 12 mini","option1":"iPhone 12 mini","option2":null,"option3":null,"sku":"9136033_11703","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone 12 mini","public_title":"iPhone 12 mini","options":["iPhone 12 mini"],"price":2500,"weight":20,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554103083123,"title":"iPhone 12 Pro","option1":"iPhone 12 Pro","option2":null,"option3":null,"sku":"9136033_11808","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone 12 Pro","public_title":"iPhone 12 Pro","options":["iPhone 12 Pro"],"price":2500,"weight":23,"compare_at_price":null,"inventory_quantity":-2,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554103115891,"title":"iPhone 12 Pro Max","option1":"iPhone 12 Pro Max","option2":null,"option3":null,"sku":"9136033_11705","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone 12 Pro Max","public_title":"iPhone 12 Pro Max","options":["iPhone 12 Pro Max"],"price":2500,"weight":28,"compare_at_price":null,"inventory_quantity":-6,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554103148659,"title":"iPhone 13 mini","option1":"iPhone 13 mini","option2":null,"option3":null,"sku":"9136033_13428","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone 13 mini","public_title":"iPhone 13 mini","options":["iPhone 13 mini"],"price":2500,"weight":20,"compare_at_price":null,"inventory_quantity":0,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554103181427,"title":"iPhone 13","option1":"iPhone 13","option2":null,"option3":null,"sku":"9136033_13427","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone 13","public_title":"iPhone 13","options":["iPhone 13"],"price":2500,"weight":30,"compare_at_price":null,"inventory_quantity":-2,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554103214195,"title":"iPhone SE","option1":"iPhone SE","option2":null,"option3":null,"sku":"9136033_11452","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone SE","public_title":"iPhone SE","options":["iPhone SE"],"price":2500,"weight":14,"compare_at_price":null,"inventory_quantity":0,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554103246963,"title":"iPhone X\/XS","option1":"iPhone X\/XS","option2":null,"option3":null,"sku":"9136033_8933","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone X\/XS","public_title":"iPhone X\/XS","options":["iPhone X\/XS"],"price":2500,"weight":26,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554103279731,"title":"iPhone XR","option1":"iPhone XR","option2":null,"option3":null,"sku":"9136033_9621","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone XR","public_title":"iPhone XR","options":["iPhone XR"],"price":2500,"weight":26,"compare_at_price":null,"inventory_quantity":-2,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39554103312499,"title":"iPhone XS Max","option1":"iPhone XS Max","option2":null,"option3":null,"sku":"9136033_9620","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Creative Department Phone Case - iPhone XS Max","public_title":"iPhone XS Max","options":["iPhone XS Max"],"price":2500,"weight":26,"compare_at_price":null,"inventory_quantity":0,"inventory_management":null,"inventory_policy":"deny","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/2J9A1640_06b51ff4-a2c0-428a-b497-2a579d9679b8.jpg?v=1639010674","\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/2J9A9610_124bd19b-ae9b-413b-8a77-b1d51875a9d3.jpg?v=1639010674","\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/iphone-case-iphone-11-pro-max-case-on-phone-6192cab274983.jpg?v=1639010674","\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/iphone-case-iphone-11-pro-max-case-with-phone-6192cab2749e7.jpg?v=1639010674"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/2J9A1640_06b51ff4-a2c0-428a-b497-2a579d9679b8.jpg?v=1639010674","options":["Size"],"media":[{"alt":null,"id":21238430204019,"position":1,"preview_image":{"aspect_ratio":0.8,"height":3325,"width":2660,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/2J9A1640_06b51ff4-a2c0-428a-b497-2a579d9679b8.jpg?v=1639010674"},"aspect_ratio":0.8,"height":3325,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/2J9A1640_06b51ff4-a2c0-428a-b497-2a579d9679b8.jpg?v=1639010674","width":2660},{"alt":null,"id":21238431776883,"position":2,"preview_image":{"aspect_ratio":0.8,"height":3184,"width":2548,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/2J9A9610_124bd19b-ae9b-413b-8a77-b1d51875a9d3.jpg?v=1639010674"},"aspect_ratio":0.8,"height":3184,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/2J9A9610_124bd19b-ae9b-413b-8a77-b1d51875a9d3.jpg?v=1639010674","width":2548},{"alt":null,"id":21069998293107,"position":3,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/iphone-case-iphone-11-pro-max-case-on-phone-6192cab274983.jpg?v=1639010674"},"aspect_ratio":1.0,"height":1000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/iphone-case-iphone-11-pro-max-case-on-phone-6192cab274983.jpg?v=1639010674","width":1000},{"alt":null,"id":21069998719091,"position":4,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/iphone-case-iphone-11-pro-max-case-with-phone-6192cab2749e7.jpg?v=1639010674"},"aspect_ratio":1.0,"height":1000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/2309\/6853\/products\/iphone-case-iphone-11-pro-max-case-with-phone-6192cab2749e7.jpg?v=1639010674","width":1000}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cp\u003eThis sleek iPhone case protects your phone from scratches, dust, oil, and dirt. It has a solid back and flexible sides that make it easy to take on and off, with precisely aligned port openings.\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003e*NOTE: This product is not eligible for returns or exchanges*\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003e• BPA free Hybrid Thermoplastic Polyurethane (TPU) and Polycarbonate (PC) material\u003cbr\u003e • Solid polycarbonate back\u003cbr\u003e • Flexible, see-through polyurethane sides\u003cbr\u003e • .5 mm raised bezel\u003cbr\u003e • Precisely aligned port openings\u003cbr\u003e • Easy to take on and off\u003cbr\u003e • Wireless charging compatible\u003cbr\u003e • The SE case fits the 2020 iPhone SE model\u003cbr\u003e\u003c\/p\u003e"}
+  </script>
+
+
+
+
+
+</div><div id="shopify-section-16377030859420c305" class="shopify-section"><div id="CollectionSection" data-section-id="16377030859420c305" data-section-type="collection-template" data-grid-type="collage">
+  <div class="wrapper">
+    
+      <div class="section-header text-center">
+        <h2 class="h1 section-header__title">Lightroom Presets</h2>
+        <hr class="hr--small">
+      </div>
+    
+
+    <div class="grid grid-collage">
+
+      
+
+      
+
+        
+
+          
+          
+          
+          
+
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+<!-- /snippets/product-grid-item.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item grid-product one-whole medium--one-half large--one-half">
+  <div class="grid-product__wrapper">
+    <div class="grid-product__image-wrapper">
+      <a class="grid-product__image-link grid-product__image-link--loading" href="/products/classic" data-image-link>
+        
+          <style>
+  
+
+  @media screen and (min-width: 591px) { 
+    .ProductImage-4104690860066 {
+      max-width: 189.0px;
+      max-height: 270px;
+    }
+    #ProductImageWrapper-4104690860066 {
+      max-width: 189.0px;
+    }
+   } 
+
+  
+    
+    @media screen and (max-width: 590px) {
+      .ProductImage-4104690860066 {
+        max-width: 206.5px;
+      }
+      #ProductImageWrapper-4104690860066 {
+        max-width: 206.5px;
+      }
+    }
+  
+</style>
+
+          <div id="ProductImageWrapper-4104690860066" class="product--wrapper">
+            <div style="padding-top:142.8571429%;">
+              <div class="reveal">
+              <img class="product--image lazyload ProductImage-4104690860066"
+                   data-src="//cdn.shopify.com/s/files/1/2309/6853/products/Classic_{width}x.jpg?v=1543324455"
+                   data-widths="[180, 370, 590, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                   data-aspectratio="0.7"
+                   data-sizes="auto"
+                   alt="Classic"
+                   data-image>
+                
+                <div class="hidden">
+                <img src="//cdn.shopify.com/s/files/1/2309/6853/products/Group_5.jpg?v=1543324455" alt="Classic" />
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <noscript>
+            <img class="grid-product__image" src="//cdn.shopify.com/s/files/1/2309/6853/products/Classic_1024x.jpg?v=1543324455" alt="Classic">
+          </noscript>
+        
+      </a>
+      
+    </div>
+
+    <a href="/products/classic" class="grid-product__meta">
+      <span class="grid-product__title">Classic</span>
+      <span class="grid-product__price-wrap">
+        <span class="long-dash">—</span>
+        <span class="grid-product__price">
+          
+             <span class="visually-hidden">Regular price</span>
+          
+          
+            <span class=money>$50</span>
+          
+        </span></span>
+      
+    </a>
+  </div>
+</div>
+
+
+  
+  
+
+  
+  
+
+
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+<!-- /snippets/product-grid-item.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item grid-product one-whole medium--one-half large--one-half">
+  <div class="grid-product__wrapper">
+    <div class="grid-product__image-wrapper">
+      <a class="grid-product__image-link grid-product__image-link--loading" href="/products/vintage" data-image-link>
+        
+          <style>
+  
+
+  @media screen and (min-width: 591px) { 
+    .ProductImage-4104807710754 {
+      max-width: 189.0px;
+      max-height: 270px;
+    }
+    #ProductImageWrapper-4104807710754 {
+      max-width: 189.0px;
+    }
+   } 
+
+  
+    
+    @media screen and (max-width: 590px) {
+      .ProductImage-4104807710754 {
+        max-width: 206.5px;
+      }
+      #ProductImageWrapper-4104807710754 {
+        max-width: 206.5px;
+      }
+    }
+  
+</style>
+
+          <div id="ProductImageWrapper-4104807710754" class="product--wrapper">
+            <div style="padding-top:142.8571429%;">
+              <div class="reveal">
+              <img class="product--image lazyload ProductImage-4104807710754"
+                   data-src="//cdn.shopify.com/s/files/1/2309/6853/products/Vintage_{width}x.jpg?v=1543324394"
+                   data-widths="[180, 370, 590, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                   data-aspectratio="0.7"
+                   data-sizes="auto"
+                   alt="Vintage"
+                   data-image>
+                
+                <div class="hidden">
+                <img src="//cdn.shopify.com/s/files/1/2309/6853/products/VintageBF2.jpg?v=1543324394" alt="Vintage" />
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <noscript>
+            <img class="grid-product__image" src="//cdn.shopify.com/s/files/1/2309/6853/products/Vintage_1024x.jpg?v=1543324394" alt="Vintage">
+          </noscript>
+        
+      </a>
+      
+    </div>
+
+    <a href="/products/vintage" class="grid-product__meta">
+      <span class="grid-product__title">Vintage</span>
+      <span class="grid-product__price-wrap">
+        <span class="long-dash">—</span>
+        <span class="grid-product__price">
+          
+             <span class="visually-hidden">Regular price</span>
+          
+          
+            <span class=money>$50</span>
+          
+        </span></span>
+      
+    </a>
+  </div>
+</div>
+
+
+  
+  
+    <div class="grid__row-separator"></div>
+  
+
+  
+  
+
+
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+<!-- /snippets/product-grid-item.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item grid-product one-whole medium--one-half large--one-half">
+  <div class="grid-product__wrapper">
+    <div class="grid-product__image-wrapper">
+      <a class="grid-product__image-link grid-product__image-link--loading" href="/products/nature" data-image-link>
+        
+          <style>
+  
+
+  @media screen and (min-width: 591px) { 
+    .ProductImage-4104818753570 {
+      max-width: 189.0px;
+      max-height: 270px;
+    }
+    #ProductImageWrapper-4104818753570 {
+      max-width: 189.0px;
+    }
+   } 
+
+  
+    
+    @media screen and (max-width: 590px) {
+      .ProductImage-4104818753570 {
+        max-width: 206.5px;
+      }
+      #ProductImageWrapper-4104818753570 {
+        max-width: 206.5px;
+      }
+    }
+  
+</style>
+
+          <div id="ProductImageWrapper-4104818753570" class="product--wrapper">
+            <div style="padding-top:142.8571429%;">
+              <div class="reveal">
+              <img class="product--image lazyload ProductImage-4104818753570"
+                   data-src="//cdn.shopify.com/s/files/1/2309/6853/products/Nature_{width}x.jpg?v=1543324411"
+                   data-widths="[180, 370, 590, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                   data-aspectratio="0.7"
+                   data-sizes="auto"
+                   alt="Nature"
+                   data-image>
+                
+                <div class="hidden">
+                <img src="//cdn.shopify.com/s/files/1/2309/6853/products/NatureBF7.jpg?v=1543324411" alt="Nature" />
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <noscript>
+            <img class="grid-product__image" src="//cdn.shopify.com/s/files/1/2309/6853/products/Nature_1024x.jpg?v=1543324411" alt="Nature">
+          </noscript>
+        
+      </a>
+      
+    </div>
+
+    <a href="/products/nature" class="grid-product__meta">
+      <span class="grid-product__title">Nature</span>
+      <span class="grid-product__price-wrap">
+        <span class="long-dash">—</span>
+        <span class="grid-product__price">
+          
+             <span class="visually-hidden">Regular price</span>
+          
+          
+            <span class=money>$50</span>
+          
+        </span></span>
+      
+    </a>
+  </div>
+</div>
+
+
+  
+  
+
+  
+  
+
+
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+<!-- /snippets/product-grid-item.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item grid-product one-whole medium--one-half large--one-half">
+  <div class="grid-product__wrapper">
+    <div class="grid-product__image-wrapper">
+      <a class="grid-product__image-link grid-product__image-link--loading" href="/products/everything" data-image-link>
+        
+          <style>
+  
+
+  @media screen and (min-width: 591px) { 
+    .ProductImage-4109034225698 {
+      max-width: 189.0px;
+      max-height: 270px;
+    }
+    #ProductImageWrapper-4109034225698 {
+      max-width: 189.0px;
+    }
+   } 
+
+  
+    
+    @media screen and (max-width: 590px) {
+      .ProductImage-4109034225698 {
+        max-width: 206.5px;
+      }
+      #ProductImageWrapper-4109034225698 {
+        max-width: 206.5px;
+      }
+    }
+  
+</style>
+
+          <div id="ProductImageWrapper-4109034225698" class="product--wrapper">
+            <div style="padding-top:142.8571429%;">
+              <div class="reveal">
+              <img class="product--image lazyload ProductImage-4109034225698"
+                   data-src="//cdn.shopify.com/s/files/1/2309/6853/products/Everything_{width}x.jpg?v=1543324430"
+                   data-widths="[180, 370, 590, 740, 900, 1080, 1296, 1512, 1728, 2048]"
+                   data-aspectratio="0.7"
+                   data-sizes="auto"
+                   alt="Everything"
+                   data-image>
+                
+                <div class="hidden">
+                <img src="//cdn.shopify.com/s/files/1/2309/6853/products/VintageBF2_8798dea1-5cfa-428e-b048-d8d44755616b.jpg?v=1543324430" alt="Everything" />
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <noscript>
+            <img class="grid-product__image" src="//cdn.shopify.com/s/files/1/2309/6853/products/Everything_1024x.jpg?v=1543324430" alt="Everything">
+          </noscript>
+        
+      </a>
+      
+    </div>
+
+    <a href="/products/everything" class="grid-product__meta">
+      <span class="grid-product__title">Everything</span>
+      <span class="grid-product__price-wrap">
+        <span class="long-dash">—</span>
+        <span class="grid-product__price">
+          
+             <span class="visually-hidden">Regular price</span>
+          
+          
+            <span class=money>$100</span>
+          
+        </span></span>
+      
+    </a>
+  </div>
+</div>
+
+
+  
+  
+
+  
+  
+
+
+          
+
+        
+
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+</div><div id="shopify-section-16348268470d38c63e" class="shopify-section"><div class="wrapper">
+  <div class="page-width feature-row">
+    
+
+    <div class="feature-row">
+      
+
+      <div class="feature-row__item feature-row__text feature-row__text--right">
+        
+          <h2 class="h3">get 1 month of tezza pro for free</h2>
+        
+        
+          <div class="rte-setting featured-row__subtext"><p>To celebrate the beautiful creative community at Tezza, we're giving away a month of Tezza Pro for free. Live. Create. Repeat. </p></div>
+        
+        
+          <a href="https://tezza.onelink.me/GMXN/tezza" class="btn">
+            DOWNLOAD NOW
+          </a>
+        
+      </div>
+
+      
+        
+      <div class="feature-row__item">
+        
+          <noscript>
+            <img src="//cdn.shopify.com/s/files/1/2309/6853/files/Real_Black_600x600.png?v=1634827608" alt="" class="feature-row__image-no-js" />
+          </noscript>
+          <div class="feature-row__image-wrapper" style="padding-top:193.9688716%;">
+            
+            <img class="feature-row__image lazyload"
+              src="//cdn.shopify.com/s/files/1/2309/6853/files/Real_Black_300x300.png?v=1634827608"
+              data-src="//cdn.shopify.com/s/files/1/2309/6853/files/Real_Black_{width}x.png?v=1634827608"
+              data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+              data-aspectratio="0.5155466399197592"
+              data-sizes="auto"
+              alt="">
+        </div>
+        
+      </div>
+    
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+</div><!-- END content_for_index -->
+</div>
+
+      
+    </main>
+
+    <hr class="hr--large">
+
+    <div id="shopify-section-footer" class="shopify-section"><footer class="site-footer small--text-center" role="contentinfo" data-section-id="footer" data-section-type="footer-section">
+  <div class="wrapper">
+
+    <div class="grid-uniform">
+
+      
+      
+
+      
+      
+
+      
+      
+      
+
+      
+
+      
+
+      
+
+      
+        <div class="grid__item one-third small--one-whole">
+          <ul class="no-bullets site-footer__linklist">
+            
+
+      
+      
+
+              <li><a href="/search">Search</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/pages/faqs">FAQ</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/policies/refund-policy">Refund policy</a></li>
+
+            
+
+      
+      
+          </ul>
+        </div>
+        <div class="grid__item one-third small--one-whole">
+          <ul class="no-bullets site-footer__linklist">
+      
+
+              <li><a href="/pages/contact-us">Contact Us</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/policies/terms-of-service">Terms of Service (shoptezza.com)</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/pages/terms-of-use">Terms Of Use (Tezza App)</a></li>
+
+            
+          </ul>
+        </div>
+      
+
+      
+<div class="grid__item one-third small--one-whole large--text-right"><form method="post" action="/localization" id="localization_form" accept-charset="UTF-8" class="selectors-form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="localization" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="return_to" value="/" /></form><p class="site-footer__copyright-content">&copy; 2022, <a href="/" title="">TEZZA</a><br><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></p><span class="visually-hidden">Payment methods</span>
+            <ul class="inline-list payment-icons site-footer__payment-icons"><li>
+                  <svg class="icon" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-american_express"><title id="pi-american_express">American Express</title><g fill="none"><path fill="#000" d="M35,0 L3,0 C1.3,0 0,1.3 0,3 L0,21 C0,22.7 1.4,24 3,24 L35,24 C36.7,24 38,22.7 38,21 L38,3 C38,1.3 36.6,0 35,0 Z" opacity=".07"/><path fill="#006FCF" d="M35,1 C36.1,1 37,1.9 37,3 L37,21 C37,22.1 36.1,23 35,23 L3,23 C1.9,23 1,22.1 1,21 L1,3 C1,1.9 1.9,1 3,1 L35,1"/><path fill="#FFF" d="M8.971,10.268 L9.745,12.144 L8.203,12.144 L8.971,10.268 Z M25.046,10.346 L22.069,10.346 L22.069,11.173 L24.998,11.173 L24.998,12.412 L22.075,12.412 L22.075,13.334 L25.052,13.334 L25.052,14.073 L27.129,11.828 L25.052,9.488 L25.046,10.346 L25.046,10.346 Z M10.983,8.006 L14.978,8.006 L15.865,9.941 L16.687,8 L27.057,8 L28.135,9.19 L29.25,8 L34.013,8 L30.494,11.852 L33.977,15.68 L29.143,15.68 L28.065,14.49 L26.94,15.68 L10.03,15.68 L9.536,14.49 L8.406,14.49 L7.911,15.68 L4,15.68 L7.286,8 L10.716,8 L10.983,8.006 Z M19.646,9.084 L17.407,9.084 L15.907,12.62 L14.282,9.084 L12.06,9.084 L12.06,13.894 L10,9.084 L8.007,9.084 L5.625,14.596 L7.18,14.596 L7.674,13.406 L10.27,13.406 L10.764,14.596 L13.484,14.596 L13.484,10.661 L15.235,14.602 L16.425,14.602 L18.165,10.673 L18.165,14.603 L19.623,14.603 L19.647,9.083 L19.646,9.084 Z M28.986,11.852 L31.517,9.084 L29.695,9.084 L28.094,10.81 L26.546,9.084 L20.652,9.084 L20.652,14.602 L26.462,14.602 L28.076,12.864 L29.624,14.602 L31.499,14.602 L28.987,11.852 L28.986,11.852 Z"/></g></svg>
+
+                </li><li>
+                  <svg class="icon" version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" x="0" y="0" width="38" height="24" viewBox="0 0 165.521 105.965" xml:space="preserve" aria-labelledby="pi-apple_pay"><title id="pi-apple_pay">Apple Pay</title><path fill="#000" d="M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z" /><path fill="#FFF" d="M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875" /><g><g><path fill="#000" d="M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858" /><path fill="#000" d="M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048" /></g><g><path fill="#000" d="M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z" /><path fill="#000" d="M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z" /><path fill="#000" d="M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z" /></g></g></svg>
+
+                </li><li>
+                  <svg class="icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-diners_club"><title id="pi-diners_club">Diners Club</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M12 12v3.7c0 .3-.2.3-.5.2-1.9-.8-3-3.3-2.3-5.4.4-1.1 1.2-2 2.3-2.4.4-.2.5-.1.5.2V12zm2 0V8.3c0-.3 0-.3.3-.2 2.1.8 3.2 3.3 2.4 5.4-.4 1.1-1.2 2-2.3 2.4-.4.2-.4.1-.4-.2V12zm7.2-7H13c3.8 0 6.8 3.1 6.8 7s-3 7-6.8 7h8.2c3.8 0 6.8-3.1 6.8-7s-3-7-6.8-7z" fill="#3086C8"/></svg>
+                </li><li>
+                  <svg class="icon" viewBox="0 0 38 24" width="38" height="24" role="img" aria-labelledby="pi-discover" fill="none" xmlns="http://www.w3.org/2000/svg"><title id="pi-discover">Discover</title><path fill="#000" opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32z" fill="#fff"/><path d="M3.57 7.16H2v5.5h1.57c.83 0 1.43-.2 1.96-.63.63-.52 1-1.3 1-2.11-.01-1.63-1.22-2.76-2.96-2.76zm1.26 4.14c-.34.3-.77.44-1.47.44h-.29V8.1h.29c.69 0 1.11.12 1.47.44.37.33.59.84.59 1.37 0 .53-.22 1.06-.59 1.39zm2.19-4.14h1.07v5.5H7.02v-5.5zm3.69 2.11c-.64-.24-.83-.4-.83-.69 0-.35.34-.61.8-.61.32 0 .59.13.86.45l.56-.73c-.46-.4-1.01-.61-1.62-.61-.97 0-1.72.68-1.72 1.58 0 .76.35 1.15 1.35 1.51.42.15.63.25.74.31.21.14.32.34.32.57 0 .45-.35.78-.83.78-.51 0-.92-.26-1.17-.73l-.69.67c.49.73 1.09 1.05 1.9 1.05 1.11 0 1.9-.74 1.9-1.81.02-.89-.35-1.29-1.57-1.74zm1.92.65c0 1.62 1.27 2.87 2.9 2.87.46 0 .86-.09 1.34-.32v-1.26c-.43.43-.81.6-1.29.6-1.08 0-1.85-.78-1.85-1.9 0-1.06.79-1.89 1.8-1.89.51 0 .9.18 1.34.62V7.38c-.47-.24-.86-.34-1.32-.34-1.61 0-2.92 1.28-2.92 2.88zm12.76.94l-1.47-3.7h-1.17l2.33 5.64h.58l2.37-5.64h-1.16l-1.48 3.7zm3.13 1.8h3.04v-.93h-1.97v-1.48h1.9v-.93h-1.9V8.1h1.97v-.94h-3.04v5.5zm7.29-3.87c0-1.03-.71-1.62-1.95-1.62h-1.59v5.5h1.07v-2.21h.14l1.48 2.21h1.32l-1.73-2.32c.81-.17 1.26-.72 1.26-1.56zm-2.16.91h-.31V8.03h.33c.67 0 1.03.28 1.03.82 0 .55-.36.85-1.05.85z" fill="#231F20"/><path d="M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z" fill="url(#pi-paint0_linear)"/><path opacity=".65" d="M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z" fill="url(#pi-paint1_linear)"/><path d="M36.57 7.506c0-.1-.07-.15-.18-.15h-.16v.48h.12v-.19l.14.19h.14l-.16-.2c.06-.01.1-.06.1-.13zm-.2.07h-.02v-.13h.02c.06 0 .09.02.09.06 0 .05-.03.07-.09.07z" fill="#231F20"/><path d="M36.41 7.176c-.23 0-.42.19-.42.42 0 .23.19.42.42.42.23 0 .42-.19.42-.42 0-.23-.19-.42-.42-.42zm0 .77c-.18 0-.34-.15-.34-.35 0-.19.15-.35.34-.35.18 0 .33.16.33.35 0 .19-.15.35-.33.35z" fill="#231F20"/><path d="M37 12.984S27.09 19.873 8.976 23h26.023a2 2 0 002-1.984l.024-3.02L37 12.985z" fill="#F48120"/><defs><linearGradient id="pi-paint0_linear" x1="21.657" y1="12.275" x2="19.632" y2="9.104" gradientUnits="userSpaceOnUse"><stop stop-color="#F89F20"/><stop offset=".25" stop-color="#F79A20"/><stop offset=".533" stop-color="#F68D20"/><stop offset=".62" stop-color="#F58720"/><stop offset=".723" stop-color="#F48120"/><stop offset="1" stop-color="#F37521"/></linearGradient><linearGradient id="pi-paint1_linear" x1="21.338" y1="12.232" x2="18.378" y2="6.446" gradientUnits="userSpaceOnUse"><stop stop-color="#F58720"/><stop offset=".359" stop-color="#E16F27"/><stop offset=".703" stop-color="#D4602C"/><stop offset=".982" stop-color="#D05B2E"/></linearGradient></defs></svg>
+                </li><li>
+                  <svg class="icon" role="img" aria-labelledby="pi-elo" width="38" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 24"><title id="pi-elo">Elo</title><g fill-rule="nonzero" fill="none"><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF"/><g fill="#000"><path d="M13.3 15.5c-.6.6-1.4.9-2.3.9-.6 0-1.2-.2-1.6-.5l-1.2 1.9c.8.6 1.8.9 2.8.9 1.5 0 2.9-.6 3.9-1.6l-1.6-1.6zm-2.1-7.7c-3 0-5.5 2.4-5.5 5.4 0 1.1.3 2.2.9 3.1l9.8-4.2c-.6-2.5-2.7-4.3-5.2-4.3zm-3.3 5.8v-.4c0-1.8 1.5-3.2 3.2-3.2 1 0 1.8.5 2.4 1.1l-5.6 2.5zm11.6-8.3v10.5l1.8.8-.9 2.1-1.8-.8c-.4-.2-.7-.4-.9-.7-.2-.3-.3-.7-.3-1.3V5.3h2.1zM26 10.2c.3-.1.7-.2 1-.2 1.5 0 2.8 1.1 3.1 2.6l2.2-.4c-.5-2.5-2.7-4.4-5.3-4.4-.6 0-1.2.1-1.7.3l.7 2.1zm-2.6 7.1l1.5-1.7c-.7-.6-1.1-1.4-1.1-2.4s.4-1.8 1.1-2.4l-1.5-1.7c-1.1 1-1.8 2.5-1.8 4.1 0 1.7.7 3.1 1.8 4.1zm6.7-3.4c-.3 1.5-1.6 2.6-3.1 2.6-.4 0-.7-.1-1-.2l-.7 2.1c.5.2 1.1.3 1.7.3 2.6 0 4.8-1.9 5.3-4.4l-2.2-.4z"/></g></g></svg>
+                </li><li>
+                  <svg class="icon" width="38" height="24" role="img" aria-labelledby="pi-facebook_pay" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg"><title id="pi-facebook_pay">Facebook Pay</title><path xmlns="http://www.w3.org/2000/svg" opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path xmlns="http://www.w3.org/2000/svg" fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path fill-rule="evenodd" clip-rule="evenodd" d="M8.29 5.672h.035v.874H8.29c-2.256 0-4.165 1.46-4.8 3.472l-.849-.265c.75-2.365 2.995-4.081 5.649-4.081z" fill="url(#pi-paint0_linear)"/><path fill-rule="evenodd" clip-rule="evenodd" d="M8.325 6.546v-.874H8.29c2.662 0 4.914 1.728 5.656 4.105l-.848.266c-.624-2.014-2.523-3.482-4.773-3.497z" fill="url(#pi-paint1_linear)"/><path fill-rule="evenodd" clip-rule="evenodd" d="M11.243 15.478l.523.708a5.96 5.96 0 01-3.476 1.108 5.96 5.96 0 01-3.43-1.075l.524-.708c.82.573 1.823.91 2.906.91 1.104 0 2.124-.35 2.953-.943z" fill="url(#pi-paint2_linear)"/><path fill-rule="evenodd" clip-rule="evenodd" d="M2.642 9.753l.848.265a4.856 4.856 0 00-.225 1.465c0 1.663.836 3.134 2.119 4.028l-.523.708c-1.453-1.017-2.417-2.663-2.483-4.532v-.407c.019-.53.11-1.042.264-1.527z" fill="url(#pi-paint3_linear)"/><path fill-rule="evenodd" clip-rule="evenodd" d="M14.205 11.483c0 1.934-.96 3.646-2.44 4.703l-.523-.707a4.904 4.904 0 002.073-3.996c0-.502-.076-.987-.218-1.443l.848-.266c.17.54.26 1.114.26 1.71z" fill="url(#pi-paint4_linear)"/><path fill-rule="evenodd" clip-rule="evenodd" d="M11.06 12.218c0-.308-.215-.446-.692-.446H9.193v.89h1.175c.485 0 .692-.133.692-.444zm-.857-1.866h-1.01v.89h1.01c.457 0 .664-.138.664-.443 0-.306-.21-.447-.664-.447zm1.474 1.922c0 .594-.474.932-1.31.932H8.64c-.03 0-.05-.02-.05-.049v-3.3c0-.029.02-.048.05-.048h1.575c.813 0 1.26.313 1.26.878 0 .335-.15.604-.583.733.548.114.77.437.785.854zM7.872 9.857v.461c0 .03-.02.049-.05.049h-2v.861h1.66c.03 0 .049.02.049.049v.46c0 .03-.02.05-.05.05H5.823v1.37c0 .03-.02.049-.05.049H5.27c-.03 0-.05-.02-.05-.049v-3.3c0-.029.02-.048.05-.048h2.553c.03 0 .05.02.05.048z" fill="#64717D"/><path fill-rule="evenodd" clip-rule="evenodd" d="M31.214 9.82a49.278 49.278 0 001.688 4.454l1.55-4.454h1.239l-2.221 5.754c-.284.737-.621 1.305-1.011 1.705-.39.4-.913.6-1.568.6-.163 0-.317-.013-.46-.039v-1.005c.12.019.227.028.317.028.398 0 .722-.11.972-.332.25-.221.47-.546.659-.974a45.905 45.905 0 01-1.312-2.824 80.59 80.59 0 01-1.17-2.913h1.317zm-4.6-.134c.696 0 1.256.197 1.68.591.425.395.637.985.637 1.77V15.4h-1.09v-.91c-.22.328-.503.58-.847.757a2.542 2.542 0 01-1.176.265c-.599 0-1.064-.152-1.395-.455-.331-.303-.497-.703-.497-1.197 0-.491.187-.903.56-1.234.373-.33.968-.497 1.786-.497h1.545v-.016c0-.938-.439-1.407-1.317-1.407-.368 0-.677.065-.93.196-.251.13-.455.312-.61.547l-.778-.62c.242-.368.561-.651.957-.848a2.985 2.985 0 011.35-.296h.124zM20.16 7.588c.996 0 1.74.233 2.232.7.492.467.739 1.1.739 1.9 0 .797-.247 1.43-.739 1.898-.492.469-1.236.703-2.232.703h-2.136v2.612H16.83V7.588h3.329zm7.657 5.419h-1.5c-.446 0-.765.07-.957.21a.665.665 0 00-.286.566c0 .49.33.736.994.736.439 0 .804-.097 1.096-.293.292-.195.51-.46.653-.795v-.424zm-7.77-4.326h-2.023v3.014h2.022c.648 0 1.12-.125 1.418-.377.297-.25.445-.627.445-1.13 0-.502-.148-.879-.445-1.13-.298-.251-.77-.377-1.418-.377z" fill="#1B2529"/><defs><linearGradient id="pi-paint0_linear" x1="8.325" y1="6.803" x2="3.828" y2="10.121" gradientUnits="userSpaceOnUse"><stop stop-color="#24D365"/><stop offset="1" stop-color="#139DBD"/></linearGradient><linearGradient id="pi-paint1_linear" x1="8.29" y1="6.774" x2="12.8" y2="10.111" gradientUnits="userSpaceOnUse"><stop stop-color="#23D068"/><stop offset=".52" stop-color="#EACD36"/><stop offset="1" stop-color="#FF6C5C"/></linearGradient><linearGradient id="pi-paint2_linear" x1="5.121" y1="15.876" x2="11.496" y2="15.876" gradientUnits="userSpaceOnUse"><stop stop-color="#266FF3"/><stop offset="1" stop-color="#C439D6"/></linearGradient><linearGradient id="pi-paint3_linear" x1="4.135" y1="15.894" x2="2.281" y2="10.39" gradientUnits="userSpaceOnUse"><stop stop-color="#266FF3"/><stop offset="1" stop-color="#149FBA"/></linearGradient><linearGradient id="pi-paint4_linear" x1="12.899" y1="9.913" x2="11.041" y2="15.394" gradientUnits="userSpaceOnUse"><stop stop-color="#FF6C5C"/><stop offset="1" stop-color="#C439D6"/></linearGradient></defs></svg>
+
+                </li><li>
+                  <svg class="icon" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-google_pay"><title id="pi-google_pay">Google Pay</title><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF"/><path d="M18.093 11.976v3.2h-1.018v-7.9h2.691a2.447 2.447 0 0 1 1.747.692 2.28 2.28 0 0 1 .11 3.224l-.11.116c-.47.447-1.098.69-1.747.674l-1.673-.006zm0-3.732v2.788h1.698c.377.012.741-.135 1.005-.404a1.391 1.391 0 0 0-1.005-2.354l-1.698-.03zm6.484 1.348c.65-.03 1.286.188 1.778.613.445.43.682 1.03.65 1.649v3.334h-.969v-.766h-.049a1.93 1.93 0 0 1-1.673.931 2.17 2.17 0 0 1-1.496-.533 1.667 1.667 0 0 1-.613-1.324 1.606 1.606 0 0 1 .613-1.336 2.746 2.746 0 0 1 1.698-.515c.517-.02 1.03.093 1.49.331v-.208a1.134 1.134 0 0 0-.417-.901 1.416 1.416 0 0 0-.98-.368 1.545 1.545 0 0 0-1.319.717l-.895-.564a2.488 2.488 0 0 1 2.182-1.06zM23.29 13.52a.79.79 0 0 0 .337.662c.223.176.5.269.785.263.429-.001.84-.17 1.146-.472.305-.286.478-.685.478-1.103a2.047 2.047 0 0 0-1.324-.374 1.716 1.716 0 0 0-1.03.294.883.883 0 0 0-.392.73zm9.286-3.75l-3.39 7.79h-1.048l1.281-2.728-2.224-5.062h1.103l1.612 3.885 1.569-3.885h1.097z" fill="#5F6368"/><path d="M13.986 11.284c0-.308-.024-.616-.073-.92h-4.29v1.747h2.451a2.096 2.096 0 0 1-.9 1.373v1.134h1.464a4.433 4.433 0 0 0 1.348-3.334z" fill="#4285F4"/><path d="M9.629 15.721a4.352 4.352 0 0 0 3.01-1.097l-1.466-1.14a2.752 2.752 0 0 1-4.094-1.44H5.577v1.17a4.53 4.53 0 0 0 4.052 2.507z" fill="#34A853"/><path d="M7.079 12.05a2.709 2.709 0 0 1 0-1.735v-1.17H5.577a4.505 4.505 0 0 0 0 4.075l1.502-1.17z" fill="#FBBC04"/><path d="M9.629 8.44a2.452 2.452 0 0 1 1.74.68l1.3-1.293a4.37 4.37 0 0 0-3.065-1.183 4.53 4.53 0 0 0-4.027 2.5l1.502 1.171a2.715 2.715 0 0 1 2.55-1.875z" fill="#EA4335"/></svg>
+
+                </li><li>
+                  <svg class="icon" width="38" height="24" role="img" aria-labelledby="pi-jcb" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg"><title id="pi-jcb">JCB</title><g fill="none" fill-rule="evenodd"><g fill-rule="nonzero"><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF"/></g><path d="M11.5 5H15v11.5a2.5 2.5 0 0 1-2.5 2.5H9V7.5A2.5 2.5 0 0 1 11.5 5z" fill="#006EBC"/><path d="M18.5 5H22v11.5a2.5 2.5 0 0 1-2.5 2.5H16V7.5A2.5 2.5 0 0 1 18.5 5z" fill="#F00036"/><path d="M25.5 5H29v11.5a2.5 2.5 0 0 1-2.5 2.5H23V7.5A2.5 2.5 0 0 1 25.5 5z" fill="#2AB419"/><path d="M10.755 14.5c-1.06 0-2.122-.304-2.656-.987l.78-.676c.068 1.133 3.545 1.24 3.545-.19V9.5h1.802v3.147c0 .728-.574 1.322-1.573 1.632-.466.144-1.365.221-1.898.221zm8.116 0c-.674 0-1.388-.107-1.965-.366-.948-.425-1.312-1.206-1.3-2.199.012-1.014.436-1.782 1.468-2.165 1.319-.49 3.343-.261 3.926.27v.972c-.572-.521-1.958-.898-2.919-.46-.494.226-.737.917-.744 1.448-.006.56.245 1.252.744 1.497.953.467 2.39.04 2.919-.441v1.01c-.358.255-1.253.434-2.129.434zm8.679-2.587c.37-.235.582-.567.582-1.005 0-.438-.116-.687-.348-.939-.206-.207-.58-.469-1.238-.469H23v5h3.546c.696 0 1.097-.23 1.315-.415.283-.25.426-.53.426-.96 0-.431-.155-.908-.737-1.212zm-1.906-.281h-1.428v-1.444h1.495c.956 0 .944 1.444-.067 1.444zm.288 2.157h-1.716v-1.513h1.716c.986 0 1.083 1.513 0 1.513z" fill="#FFF" fill-rule="nonzero"/></g></svg>
+                </li><li>
+                  <svg class="icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master"><title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#F79E1B" cx="23" cy="12" r="7"/><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg>
+                </li><li>
+                  <svg class="icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-paypal"><title id="pi-paypal">PayPal</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path fill="#003087" d="M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z"/><path fill="#3086C8" d="M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z"/><path fill="#012169" d="M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z"/></svg>
+                </li><li>
+                  <svg class="icon" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-shopify_pay"><title id="pi-shopify_pay">Shop Pay</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32z" fill="#5A31F4"/><path d="M21.382 9.713c0 1.668-1.177 2.858-2.821 2.858h-1.549a.133.133 0 00-.12.08.127.127 0 00-.01.049v2.192a.129.129 0 01-.13.129h-1.084a.13.13 0 01-.13-.13V6.986a.127.127 0 01.08-.12.129.129 0 01.05-.01h2.9c1.637 0 2.814 1.19 2.814 2.858v-.001zm-1.352 0c0-.958-.658-1.658-1.55-1.658h-1.468a.13.13 0 00-.13.13v3.05a.127.127 0 00.038.092.129.129 0 00.092.038h1.468c.892.005 1.55-.695 1.55-1.652zm1.674 3.791a1.527 1.527 0 01.647-1.317c.423-.316 1.084-.48 2.055-.514l1.033-.036v-.303c0-.607-.41-.863-1.068-.863-.658 0-1.075.231-1.17.61a.127.127 0 01-.125.09h-1.022a.13.13 0 01-.126-.092.125.125 0 01-.004-.055c.152-.898.904-1.58 2.494-1.58 1.692 0 2.303.783 2.303 2.276v3.172a.13.13 0 01-.132.129h-1.03a.13.13 0 01-.13-.13v-.236a.096.096 0 00-.061-.091.1.1 0 00-.107.022c-.31.334-.808.575-1.607.575-1.175 0-1.95-.607-1.95-1.657zm3.735-.687v-.246l-1.339.07c-.705.036-1.115.326-1.115.816 0 .444.376.69 1.034.69.893 0 1.42-.48 1.42-1.33zm2.316 4.6v-.919a.13.13 0 01.049-.1.132.132 0 01.108-.027c.158.029.318.044.479.044a1.229 1.229 0 001.245-.876l.067-.211a.133.133 0 000-.088l-2.145-5.471a.13.13 0 01.06-.165.13.13 0 01.062-.015h1.04a.132.132 0 01.123.085l1.456 3.859a.131.131 0 00.125.088.133.133 0 00.125-.088l1.265-3.848a.13.13 0 01.126-.09h1.076a.134.134 0 01.132.116.134.134 0 01-.008.063l-2.295 6.076c-.528 1.413-1.433 1.773-2.43 1.773a1.959 1.959 0 01-.561-.066.132.132 0 01-.1-.14h.001zM8.57 6.4a5.363 5.363 0 00-3.683 1.427.231.231 0 00-.029.31l.618.839a.236.236 0 00.362.028 3.823 3.823 0 012.738-1.11c2.12 0 3.227 1.584 3.227 3.15 0 1.7-1.163 2.898-2.835 2.921-1.292 0-2.266-.85-2.266-1.974a1.908 1.908 0 01.713-1.48.231.231 0 00.033-.324l-.65-.815a.236.236 0 00-.339-.034 3.43 3.43 0 00-.942 1.183 3.39 3.39 0 00-.337 1.47c0 1.935 1.655 3.452 3.775 3.464h.03c2.517-.032 4.337-1.884 4.337-4.415 0-2.247-1.667-4.64-4.752-4.64z" fill="#fff"/></svg>
+                </li><li>
+                  <svg class="icon" viewBox="0 0 38 24" width="38" height="24" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="pi-venmo"><title id="pi-venmo">Venmo</title><g fill="none" fill-rule="evenodd"><rect fill-opacity=".07" fill="#000" width="38" height="24" rx="3"/><path fill="#3D95CE" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M24.675 8.36c0 3.064-2.557 7.045-4.633 9.84h-4.74L13.4 6.57l4.151-.402 1.005 8.275c.94-1.566 2.099-4.025 2.099-5.702 0-.918-.154-1.543-.394-2.058l3.78-.783c.437.738.634 1.499.634 2.46z" fill="#FFF" fill-rule="nonzero"/></g></svg>
+
+                </li><li>
+                  <svg class="icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa"><title id="pi-visa">Visa</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/></svg>
+                </li></ul></div>
+    </div>
+
+  </div>
+</footer>
+
+
+
+
+</div>
+
+  </div>
+
+  
+  <script>
+    
+  </script>
+
+  
+  
+    <!-- /snippets/ajax-cart-template.liquid -->
+
+  <script id="CartTemplate" type="text/template">
+  
+    <form action="/cart" method="post" novalidate class="cart ajaxcart">
+      <div class="ajaxcart__inner ajaxcart__inner--has-fixed-footer">
+        {{#items}}
+        <div class="ajaxcart__product">
+          <div class="ajaxcart__row" data-line="{{line}}">
+            <div class="grid">
+              <div class="grid__item one-quarter">
+                <a href="{{url}}" class="ajaxcart__product-image"><img src="{{img}}" alt="{{name}}"></a>
+              </div>
+              <div class="grid__item three-quarters">
+                <div class="ajaxcart__product-name--wrapper">
+                  <a href="{{url}}" class="ajaxcart__product-name">{{{name}}}</a>
+                  {{#if variation}}
+                    <span class="ajaxcart__product-meta">{{variation}}</span>
+                  {{/if}}
+                  {{#properties}}
+                    {{#each this}}
+                      {{#if this}}
+                        <span class="ajaxcart__product-meta">{{@key}}: {{this}}</span>
+                      {{/if}}
+                    {{/each}}
+                  {{/properties}}
+                </div>
+
+                <div class="grid--full">
+                  <div class="grid__item one-half">
+                    <div class="ajaxcart__qty">
+                      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" data-line="{{line}}" aria-label="Reduce item quantity by one">
+                        <span class="icon icon-minus" aria-hidden="true"></span>
+                        <span class="fallback-text" aria-hidden="true">&minus;</span>
+                      </button>
+                      <input type="text" name="updates[]" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+                      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus icon-fallback-text" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+                        <span class="icon icon-plus" aria-hidden="true"></span>
+                        <span class="fallback-text" aria-hidden="true">+</span>
+                      </button>
+                    </div>
+                  </div>
+                  <div class="grid__item one-half text-right">
+                    {{#if discountsApplied}}
+                      <span class="visually-hidden">Regular price</span>
+                      <del class="ajaxcart__price">{{{price}}}</del>
+                      <span class="visually-hidden">Sale price</span>
+                      <span class="ajaxcart__price">{{{discountedPrice}}}</span>
+                    {{else}}
+                      <span class="ajaxcart__price">{{{price}}}</span>
+                    {{/if}}
+                    {{#if unitPrice}}
+                      <span class="visually-hidden">Unit price</span>
+                      <span class="cart__unit-price">
+                        
+
+
+                        <span>{{{ unitPrice.price }}}</span><span aria-hidden="true">/</span><span class="visually-hidden">&nbsp;per&nbsp;</span>{{#if unitPrice.addRefererenceValue }}{{{ unitPrice.reference_value }}}{{/if}}{{{ unitPrice.reference_unit }}}
+                      </span>
+                    {{/if}}
+                  </div>
+                </div>
+                {{#if discountsApplied}}
+                  <div class="grid--full">
+                    <div class="grid__item text-right">
+                      <ul class="order-discount order-discount--list order-discount--title order-discount--ajax-cart order-discount--ajax-cart-list" aria-label="Discount">
+                        {{#each discounts}}
+                          <li class="order-discount__item">
+                            <span class="icon icon-saletag" aria-hidden="true"></span>{{ this.discount_application.title }} (-{{{ this.formattedAmount }}})
+                          </li>
+                        {{/each}}
+                      </ul>
+                    </div>
+                  </div>
+                {{/if}}
+              </div>
+            </div>
+          </div>
+        </div>
+        {{/items}}
+
+        
+      </div>
+      <div class="ajaxcart__footer ajaxcart__footer--fixed">
+        <div class="grid--full">
+          {{#if cartDiscountsApplied}}
+            {{#each cartDiscounts}}
+              <div class="grid__item two-thirds ajaxcart__discounts">
+                <span class="order-discount order-discount--title order-discount--ajax-cart">
+                  <span class="icon icon-saletag" aria-hidden="true"></span><span class="visually-hidden">Discount:</span>{{ this.title }}
+                </span>
+              </div>
+              <div class="grid__item one-third text-right">
+                <span class="ajaxcart__price">-{{{ this.formattedAmount }}}</span>
+              </div>
+            {{/each}}
+          {{/if}}
+          <div class="grid__item two-thirds">
+            <p class="ajaxcart__subtotal">Subtotal</p>
+          </div>
+          <div class="grid__item one-third text-right">
+            <p class="ajaxcart__subtotal">{{{totalPrice}}}</p>
+          </div>
+        </div>
+
+        <p class="ajaxcart__policies">
+Taxes and shipping calculated at checkout
+
+        </p>
+        
+        <!-- Route Code Edited 05/19/2021 -->
+        <div class="route-div" dark-ui style="margin-top: -15px;" desktop-align="center"></div>
+        <!-- Route Code End -->
+        
+        <button type="submit" class="btn--secondary btn--full cart__checkout" name="checkout">
+          Check Out <span class="icon icon-arrow-right" aria-hidden="true"></span>
+        </button>
+      </div>
+    </form>
+  
+  </script>
+  <script id="AjaxQty" type="text/template">
+  
+    <div class="ajaxcart__qty">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" aria-label="Reduce item quantity by one">
+        <span class="icon icon-minus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">&minus;</span>
+      </button>
+      <input type="text" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus icon-fallback-text" data-id="{{key}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+        <span class="icon icon-plus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">+</span>
+      </button>
+    </div>
+  
+  </script>
+  <script id="JsQty" type="text/template">
+  
+    <div class="js-qty">
+      <button type="button" class="js-qty__adjust js-qty__adjust--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" aria-label="Reduce item quantity by one">
+        <span class="icon icon-minus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">&minus;</span>
+      </button>
+      <input type="text" class="js-qty__num" value="{{itemQty}}" min="1" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*" name="{{inputName}}" id="{{inputId}}">
+      <button type="button" class="js-qty__adjust js-qty__adjust--plus icon-fallback-text" data-id="{{key}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+        <span class="icon icon-plus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">+</span>
+      </button>
+    </div>
+  
+  </script>
+
+  
+
+  
+      <script>
+        // Override default values of shop.strings for each template.
+        // Alternate product templates can change values of
+        // add to cart button, sold out, and unavailable states here.
+        theme.productStrings = {
+          addToCart: "Add to Cart",
+          soldOut: "Coming Soon",
+          unavailable: "Unavailable"
+        }
+      </script>
+    
+
+  <div id="SearchModal" class="mfp-hide">
+    <!-- /snippets/search-bar.liquid -->
+
+
+
+
+
+<form action="/search" method="get" class="input-group search-bar search-bar--modal" role="search">
+  
+  <input type="search" name="q" value="" placeholder="Search our store" class="input-group-field" aria-label="Search our store">
+  <span class="input-group-btn">
+    <button type="submit" class="btn icon-fallback-text">
+      <span class="icon icon-search" aria-hidden="true"></span>
+      <span class="fallback-text">Search</span>
+    </button>
+  </span>
+</form>
+
+  </div>
+  <ul hidden>
+    <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+    <li id="a11y-selection-message">Press the space key then arrow keys to make a selection.</li>
+    <li id="a11y-slideshow-info">Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device</li>
+  </ul>
+
+<!-- Back in Stock helper snippet -->
+
+
+<script id="back-in-stock-helper">
+  var _BISConfig = _BISConfig || {};
+
+
+
+
+</script>
+
+<!-- End Back in Stock helper snippet -->
+<div id="shopify-block-8847685616676869210" class="shopify-block shopify-app-block"></div></body>
+</html>
